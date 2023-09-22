@@ -1,0 +1,1295 @@
+circrna,disease,lable
+circ-ANAPC7,acute myeloid leukemia,1
+hsa_circ_0000488,acute myeloid leukemia,1
+hsa_circ_0009910,acute myeloid leukemia,1
+hsa_circ_0009910,hepatocellular carcinoma,1
+hsa_circ_0009910,osteosarcoma,1
+hsa_circ_100290,acute myeloid leukemia,1
+circPAN3,acute myeloid leukemia,1
+circRNA_100290,acute myeloid leukemia,1
+circRNA_100290,colorectal cancer,1
+circRNA_100290,laryngeal squamous cell carcinoma,1
+circRNA_100290,oral squamous cell carcinoma,1
+circ-HIPK2,acute promyelocytic leukemia,1
+BCRC-3,bladder cancer,1
+CDR1as,bladder cancer,1
+CDR1as,esophageal squamous cell cancer,1
+CDR1as,gastric cancer,1
+CDR1as,laryngeal squamous cell carcinoma,1
+CDR1as,nasopharyngeal carcinoma,1
+CDR1as,non-small cell lung cancer,1
+CDR1as,osteosarcoma,1
+CDR1as,triple-negative breast cancer,1
+circCEP128,bladder cancer,1
+circDOCK1,bladder cancer,1
+circDOCK1,oral squamous cell carcinoma,1
+circFNDC3B,bladder cancer,1
+circ-Foxo3,bladder cancer,1
+circ-Foxo3,glioblastoma,1
+circ-Foxo3,non-small cell lung cancer,1
+circFUT8,bladder cancer,1
+circ-ITCH,bladder cancer,1
+circ-ITCH,cervical cancer,1
+circ-ITCH,colorectal cancer,1
+circ-ITCH,epithelial ovarian cancer,1
+circ-ITCH,glioma,1
+circ-ITCH,lung cancer,1
+circ-ITCH,osteosarcoma,1
+circ-ITCH,ovarian cancer,1
+circ-ITCH,papillary thyroid cancer,1
+circ-ITCH,prostate cancer,1
+circ-ITCH,triple-negative breast cancer,1
+circLPAR1,bladder cancer,1
+circMTO1,bladder cancer,1
+circMTO1,cervical cancer,1
+circMTO1,gastric cancer,1
+circMTO1,glioblastoma,1
+circMTO1,prostate cancer,1
+circMTO1,rectal cancer,1
+circMTO1,renal cell carcinoma,1
+circNR3C1,bladder cancer,1
+circPICALM,bladder cancer,1
+circPTPRA,bladder cancer,1
+circPTPRA,non-small cell lung cancer,1
+circRGNEF,bladder cancer,1
+circRIP2,bladder cancer,1
+circSLC8A1,bladder cancer,1
+circUBXN7,bladder cancer,1
+circUVRAG,bladder cancer,1
+circVANGL1,bladder cancer,1
+circVANGL1,non-small cell lung cancer,1
+circZFR,bladder cancer,1
+circZFR,gastric cancer,1
+circZFR,hepatocellular carcinoma,1
+circZFR,papillary thyroid cancer,1
+circ-ZKSCAN1,bladder cancer,1
+ciRs-6,bladder cancer,1
+cTFRC,bladder cancer,1
+hsa_circ_0137439,bladder cancer,1
+hsa_circ_0000144,bladder cancer,1
+hsa_circ_0000799,bladder cancer,1
+hsa_circ_0001073,bladder cancer,1
+hsa_circ_0001361,bladder cancer,1
+hsa_circ_0001429,bladder cancer,1
+hsa_circ_0018069,bladder cancer,1
+hsa_circ_0058063,bladder cancer,1
+hsa_circ_0068871,bladder cancer,1
+hsa_circ_0071662,bladder cancer,1
+hsa_circ_0075828,bladder cancer,1
+hsa_circ_0137606,bladder cancer,1
+hsa_circ_100242,bladder cancer,1
+hsa_circRNA_102336,bladder cancer,1
+circCTDP1,bladder cancer,1
+circMYLK,bladder cancer,1
+circMYLK,hepatocellular carcinoma,1
+hsa_circ_001598,bladder cancer,1
+hsa_circ_0041103,bladder cancer,1
+hsa_circ_0002768,bladder cancer,1
+circ-PRMT5,bladder cancer,1
+circ-PRMT5,colorectal cancer,1
+circ-PRMT5,gastric cancer,1
+circ-PRMT5,hepatocellular carcinoma,1
+circ-PRMT5,non-small cell lung cancer,1
+circ-PRMT5,urothelial carcinoma of bladder,1
+circHIPK3,bladder urothelial carcinoma,1
+circHIPK3,breast cancer,1
+circHIPK3,gallbladder cancer,1
+circHIPK3,gastric cancer,1
+circHIPK3,glioma,1
+circHIPK3,kidney clear cell carcinoma,1
+circHIPK3,liver cancer,1
+circHIPK3,lung cancer,1
+circHIPK3,nasopharyngeal carcinoma,1
+circHIPK3,oral squamous cell carcinoma,1
+circHIPK3,pancreatic cancer,1
+circHIPK3,prostate cancer,1
+circ-ABCB10,breast cancer,1
+circ-ABCB10,epithelial ovarian cancer,1
+circ-ABCB10,hepatocellular carcinoma,1
+circ-ABCB10,lung cancer,1
+circACAP2,breast cancer,1
+circASS1,breast cancer,1
+circBMPR2,breast cancer,1
+circ-CDYL,breast cancer,1
+circ-CDYL,colon cancer,1
+circ-CDYL,hepatocellular carcinoma,1
+circDENND4C,breast cancer,1
+circDENND4C,colon cancer,1
+circEHMT1,breast cancer,1
+circIRAK3,breast cancer,1
+circKDM4C,breast cancer,1
+circMYO9B,breast cancer,1
+circRNA_000911,breast cancer,1
+circRNA-CER,breast cancer,1
+circ-UBE2D2,breast cancer,1
+hsa_circ_0001098,breast cancer,1
+hsa_circ_0004771,breast cancer,1
+hsa_circ_0004771,esophageal squamous cell cancer,1
+hsa_circ_0005230,breast cancer,1
+hsa_circ_0005230,cholangiocarcinoma,1
+hsa_circ_0006528,breast cancer,1
+hsa_circ_0007255,breast cancer,1
+hsa_circ_0007534,breast cancer,1
+hsa_circ_0007534,cervical cancer,1
+hsa_circ_0007534,colorectal cancer,1
+hsa_circ_0007534,glioma,1
+hsa_circ_0007534,pancreatic ductal adenocarcinoma,1
+hsa_circ_0008039,breast cancer,1
+hsa_circ_001783,breast cancer,1
+hsa_circ_0025202,breast cancer,1
+hsa_circ_0052112,breast cancer,1
+hsa_circ_0061825,breast cancer,1
+hsa_circ_0068033,breast cancer,1
+hsa_circ_0072309,breast cancer,1
+hsa_circ_0072309,non-small cell lung cancer,1
+hsa_circ_0072309,renal carcinoma,1
+hsa_circ_0072995,breast cancer,1
+hsa_circ_0103552,breast cancer,1
+hsa_circ_0136666,breast cancer,1
+hsa_circ_0136666,colorectal cancer,1
+hsa_circ_100219,breast cancer,1
+hsa_circRNA_002178,breast cancer,1
+circCCDC66,breast cancer,1
+circCCDC66,cervical cancer,1
+circCCDC66,pancreatic cancer,1
+hsa_circ_0001982,breast cancer,1
+hsa_circ_0005239,breast cancer,1
+hsa_circ_0000073,breast cancer,1
+hsa_circ_0000911,breast cancer,1
+hsa_circ_0008717,breast cancer,1
+hsa_circ_0008717,non-small cell lung cancer,1
+hsa_circ_0001427,castration-resistant prostate cancer,1
+circAGFG1,cervical cancer,1
+circAGFG1,non-small cell lung cancer,1
+circAGFG1,triple-negative breast cancer,1
+circ-ATP8A2,cervical cancer,1
+circCLK3,cervical cancer,1
+circEIF4G2,cervical cancer,1
+circRNA_000284,cervical cancer,1
+circRNA_8924,cervical cancer,1
+hsa_circ_0000263,cervical cancer,1
+hsa_circ_0000515,cervical cancer,1
+hsa_circ_0001038,cervical cancer,1
+hsa_circ_0001445,cervical cancer,1
+hsa_circ_0004214,cervical cancer,1
+hsa_circ_0005576,cervical cancer,1
+hsa_circ_0023404,cervical cancer,1
+hsa_circ_0031288,cervical cancer,1
+hsa_circ_0033550,cervical cancer,1
+hsa_circ_0060467,cervical cancer,1
+hsa_circ_0067934,cervical cancer,1
+hsa_circ_0067934,hepatocellular carcinoma,1
+hsa_circ_0067934,lung adenocarcinoma,1
+hsa_circ_0067934,thyroid cancer,1
+hsa_circ_0075341,cervical cancer,1
+hsa_circ_103973,cervical cancer,1
+hsa_circ_CSPP1,cervical cancer,1
+hsa_circRNA_101996,cervical cancer,1
+hsa_circRNA_101996,prostate cancer,1
+circ-CBFB,chronic lymphocytic leukemia,1
+hsa_circ_0080145,chronic myeloid leukemia,1
+circATP2B1,clear cell renal cell carcinoma,1
+circPCNXL2,clear cell renal cell carcinoma,1
+hsa_circ_001895,clear cell renal cell carcinoma,1
+circHIAT1,clear cell renal cell carcinoma,1
+circHIAT1,gastric cancer,1
+circHIAT1,hepatocellular carcinoma,1
+circPIP5K1A,colon cancer,1
+circRNA-ACAP2,colon cancer,1
+hsa_circ_00001666,colon cancer,1
+hsa_circ_0001313,colon cancer,1
+hsa_circ_0005963,colon cancer,1
+hsa_circ_0007843,colon cancer,1
+hsa_circ_0055625,colon cancer,1
+CBL.11,colorectal cancer,1
+circANKS1B,colorectal cancer,1
+circCCT3,colorectal cancer,1
+hsa_circ_0000284,colorectal cancer,1
+hsa_circ_0000284,hepatocellular carcinoma,1
+hsa_circ_0000284,lung cancer,1
+hsa_circ_0000284,non-small cell lung cancer,1
+circITGA7,colorectal cancer,1
+circ-NSD2,colorectal cancer,1
+circPVT1,colorectal cancer,1
+circPVT1,esophageal cancer,1
+circPVT1,gastric cancer,1
+circPVT1,lung adenocarcinoma,1
+circPVT1,lung cancer,1
+circPVT1,non-small cell lung cancer,1
+circPVT1,oral squamous cell carcinoma,1
+circPVT1,osteosarcoma,1
+circ-ZNF609,colorectal cancer,1
+circ-ZNF609,prostate cancer,1
+hsa_circ_0000218,colorectal cancer,1
+hsa_circ_0000523,colorectal cancer,1
+hsa_circ_0001900,colorectal cancer,1
+hsa_circ_0002211,colorectal cancer,1
+hsa_circ_0005100,colorectal cancer,1
+hsa_circ_0006990,colorectal cancer,1
+hsa_circ_0009361,colorectal cancer,1
+hsa_circ_0026344,colorectal cancer,1
+hsa_circ_0053277,colorectal cancer,1
+hsa_circ_0067835,colorectal cancer,1
+hsa_circ_0071589,colorectal cancer,1
+hsa_circ_0072088,colorectal cancer,1
+hsa_circ_0079993,colorectal cancer,1
+hsa_circ_0137008,colorectal cancer,1
+hsa_circ_101555,colorectal cancer,1
+hsa_circ_001569,colorectal cancer,1
+hsa_circ_001569,hepatocellular carcinoma,1
+hsa_circ_0020397,colorectal cancer,1
+hsa_circRNA_086376,colorectal cancer,1
+hsa_circRNA_102761,colorectal cancer,1
+hsa_circRNA_105055,colorectal cancer,1
+hsa_circ_0070934,cutaneous squamous cell carcinoma,1
+hsa_circRNA_100833,cutaneous squamous cell carcinoma,1
+hsa_circRNA_100833,lung cancer,1
+hsa_circRNA_100834,cutaneous squamous cell carcinoma,1
+hsa_circ_0127621,diffuse large B-cell lymphoma,1
+circTNFRSF21,endometrial cancer,1
+hsa_circ_0002577,endometrial cancer,1
+hsa_circ_0039569,endometrial cancer,1
+hsa_circ_0061140,endometrial cancer,1
+circ-PGAM1,epithelial ovarian cancer,1
+circ-RAD23B,esophageal cancer,1
+circ-RAD23B,non-small cell lung cancer,1
+circRNA_001275,esophageal cancer,1
+hsa_circ_0006168,esophageal cancer,1
+hsa_circ_0006168,esophageal squamous cell cancer,1
+hsa_circ_0000554,esophageal cancer,1
+circ-PRKCI,esophageal squamous cell cancer,1
+circ-PRKCI,hepatocellular carcinoma,1
+circ-PRKCI,lung adenocarcinoma,1
+circUBAP2,esophageal squamous cell cancer,1
+circUBAP2,lung cancer,1
+circ-VRK1,esophageal squamous cell cancer,1
+hsa_circ_0000654,esophageal squamous cell cancer,1
+hsa_circ_0006948,esophageal squamous cell cancer,1
+hsa_circ_0000337,esophageal squamous cell cancer,1
+hsa_circ_0008234,gallbladder cancer,1
+circ_SPECC1,gastric cancer,1
+circATXN7,gastric cancer,1
+circ-CEP85L,gastric cancer,1
+circ-DCAF6,gastric cancer,1
+circ-EIF4G3,gastric cancer,1
+circ-ERBB2,gastric cancer,1
+circHECTD1,gastric cancer,1
+circMLLT10,gastric cancer,1
+circ-NOTCH1,gastric cancer,1
+circNRIP1,gastric cancer,1
+circNRIP1,renal carcinoma,1
+circPDSS1,gastric cancer,1
+circPSMC3,gastric cancer,1
+circ-RanGAP1,gastric cancer,1
+circRBMS3,gastric cancer,1
+circRHOBTB3,gastric cancer,1
+circRNA_001569,gastric cancer,1
+circRNA_0047905,gastric cancer,1
+circRNA_104433,gastric cancer,1
+circ-SFMBT2,gastric cancer,1
+circYAP1,gastric cancer,1
+ciRS-133,gastric cancer,1
+hsa_circ_0000199,gastric cancer,1
+hsa_circ_0000267,gastric cancer,1
+hsa_circ_0000291,gastric cancer,1
+hsa_circ_0000376,gastric cancer,1
+hsa_circ_0000467,gastric cancer,1
+hsa_circ_0000592,gastric cancer,1
+hsa_circ_0000673,gastric cancer,1
+hsa_circ_0000673,hepatocellular carcinoma,1
+hsa_circ_0000993,gastric cancer,1
+hsa_circ_0001368,gastric cancer,1
+hsa_circ_0001461,gastric cancer,1
+hsa_circ_0001546,gastric cancer,1
+hsa_circ_0001658,gastric cancer,1
+hsa_circ_0001658,osteosarcoma,1
+hsa_circ_0001725,gastric cancer,1
+hsa_circ_0001772,gastric cancer,1
+hsa_circ_0001897,gastric cancer,1
+hsa_circ_0003855,gastric cancer,1
+hsa_circ_0004928,gastric cancer,1
+hsa_circ_0006282,gastric cancer,1
+hsa_circ_0006848,gastric cancer,1
+hsa_circ_0008106,gastric cancer,1
+hsa_circ_0008365,gastric cancer,1
+hsa_circ_0008549,gastric cancer,1
+hsa_circ_0014130,gastric cancer,1
+hsa_circ_0014130,lung adenocarcinoma,1
+hsa_circ_0014130,non-small cell lung cancer,1
+hsa_circ_0027599,gastric cancer,1
+hsa_circ_0032627,gastric cancer,1
+hsa_circ_0056618,gastric cancer,1
+hsa_circ_0058092,gastric cancer,1
+hsa_circ_0060456,gastric cancer,1
+hsa_circ_006100,gastric cancer,1
+hsa_circ_0067997,gastric cancer,1
+hsa_circ_0081143,gastric cancer,1
+hsa_circ_0092303,gastric cancer,1
+hsa_circ_0092306,gastric cancer,1
+hsa_circ_0001946,gastric cancer,1
+hsa_circ_0001946,glioblastoma,1
+hsa_circ_0001946,hepatocellular carcinoma,1
+hsa_circ_0001946,lung adenocarcinoma,1
+circNF1,gastric cancer,1
+circNT5E,glioblastoma,1
+circ-PITX1,glioblastoma,1
+circ-PITX1,glioma,1
+hsa_circ_0001801,glioblastoma,1
+hsa_circ_0001801,glioma,1
+hsa_circ_0043949,glioblastoma,1
+hsa_circ_0074027,glioblastoma,1
+hsa_circ_0074027,non-small cell lung cancer,1
+circMMP9,glioblastoma multiforme,1
+circMMP9,osteosarcoma,1
+circ-CDC45,glioma,1
+circ-DICER1,glioma,1
+circ-EZH2,glioma,1
+circKIF4A,glioma,1
+circKIF4A,triple-negative breast cancer,1
+circMAN2B2,glioma,1
+circMAN2B2,hepatocellular carcinoma,1
+circMAN2B2,lung cancer,1
+circNFIX,glioma,1
+circ-POSTN,glioma,1
+circPTN,glioma,1
+circ-PTPRZ1,glioma,1
+circSCAF11,glioma,1
+circSMO742,glioma,1
+circ-TTBK2,glioma,1
+circ-ZNF264,glioma,1
+hsa_circ_0000177,glioma,1
+hsa_circ_0002142,glioma,1
+hsa_circ_0005198,glioma,1
+hsa_circ_0008225,glioma,1
+hsa_circ_0012129,glioma,1
+hsa_circ_0014359,glioma,1
+hsa_circ_0015758,glioma,1
+hsa_circ_002136,glioma,1
+hsa_circ_0034642,glioma,1
+hsa_circ_0037251,glioma,1
+hsa_circ_0037655,glioma,1
+hsa_circ_0046701,glioma,1
+hsa_circ_0047688,glioma,1
+hsa_circ_0061868,glioma,1
+hsa_circ_0073237,glioma,1
+hsa_circ_0074026,glioma,1
+hsa_circ_0074362,glioma,1
+hsa_circ_0079593,glioma,1
+hsa_circ_0082374,glioma,1
+hsa_circ_0088732,glioma,1
+hsa_circ_0000594,glioma,1
+circSHKBP1,glioma,1
+hsa_circ_0076248,glioma,1
+circRNA_036186,head and neck squamous cell carcinoma,1
+hsa_circ_0000495,head and neck squamous cell carcinoma,1
+circRNA_100284,hepatic carcinoma,1
+hsa_circ_0015756,hepatoblastoma,1
+hsa_circ_0015756,hepatocellular carcinoma,1
+hsa_circ_0072391,hepatoblastoma,1
+circABCC2,hepatocellular carcinoma,1
+circADAMTS13,hepatocellular carcinoma,1
+circADAMTS13,liver cancer,1
+circADAMTS14,hepatocellular carcinoma,1
+circASAP1,hepatocellular carcinoma,1
+circC3P1,hepatocellular carcinoma,1
+circDYNC1H1,hepatocellular carcinoma,1
+circFBLIM1,hepatocellular carcinoma,1
+circ-FOXP1,hepatocellular carcinoma,1
+circ-HOMER1,hepatocellular carcinoma,1
+circLARP4,hepatocellular carcinoma,1
+circLARP4,osteosarcoma,1
+circLARP4,ovarian cancer,1
+circMAT2B,hepatocellular carcinoma,1
+circPCNX,hepatocellular carcinoma,1
+circPTGR1,hepatocellular carcinoma,1
+circRBM23,hepatocellular carcinoma,1
+circRNA_101368,hepatocellular carcinoma,1
+circRNA_101505,hepatocellular carcinoma,1
+circRNA_104718,hepatocellular carcinoma,1
+circRNA_5692,hepatocellular carcinoma,1
+circSLC3A2,hepatocellular carcinoma,1
+circ-SMAD2,hepatocellular carcinoma,1
+circ-TCF4.85,hepatocellular carcinoma,1
+circTRIM33-12,hepatocellular carcinoma,1
+circ-ZEB1.33,hepatocellular carcinoma,1
+hsa_circ_0000092,hepatocellular carcinoma,1
+hsa_circ_0000204,hepatocellular carcinoma,1
+hsa_circ_0000567,hepatocellular carcinoma,1
+hsa_circ_0001178,hepatocellular carcinoma,1
+hsa_circ_0001649,hepatocellular carcinoma,1
+hsa_circ_0001649,non-small cell lung cancer,1
+hsa_circ_0001955,hepatocellular carcinoma,1
+hsa_circ_0003258,hepatocellular carcinoma,1
+hsa_circ_0005075,hepatocellular carcinoma,1
+hsa_circ_0008450,hepatocellular carcinoma,1
+hsa_circ_0008450,nasopharyngeal carcinoma,1
+hsa_circ_0016788,hepatocellular carcinoma,1
+hsa_circ_0021093,hepatocellular carcinoma,1
+hsa_circ_0039411,hepatocellular carcinoma,1
+hsa_circ_0046600,hepatocellular carcinoma,1
+hsa_circ_0051443,hepatocellular carcinoma,1
+hsa_circ_0056836,hepatocellular carcinoma,1
+hsa_circ_0070269,hepatocellular carcinoma,1
+hsa_circ_0078710,hepatocellular carcinoma,1
+hsa_circ_0091570,hepatocellular carcinoma,1
+hsa_circ_0091581,hepatocellular carcinoma,1
+hsa_circ_0101432,hepatocellular carcinoma,1
+hsa_circ_100338,hepatocellular carcinoma,1
+hsa_circ_101280,hepatocellular carcinoma,1
+hsa_circ_103809,hepatocellular carcinoma,1
+hsa_circ_104075,hepatocellular carcinoma,1
+hsa_circRNA_101764,hepatocellular carcinoma,1
+hsa_circRNA_0007874,hepatocellular carcinoma,1
+hsa_circ_0005986,hepatocellular carcinoma,1
+hsa_circ_000839,hepatocellular carcinoma,1
+hsa_circ_0103809,hepatocellular carcinoma,1
+hsa_circ_0005027,hypopharyngeal cancer,1
+hsa_circ_0008287,hypopharyngeal cancer,1
+hsa_circRNA_001654,Infantile hemangioma,1
+hsa_circRNA_100933,Infantile hemangioma,1
+hsa_circRNA_102116,Infantile hemangioma,1
+hsa_circRNA_104310,Infantile hemangioma,1
+circ2174,intrahepatic cholangiocarcinoma,1
+hsa_circ_0057481,laryngeal cancer,1
+hsa_circ_0023303,laryngeal squamous cell carcinoma,1
+hsa_circ_0042666,laryngeal squamous cell carcinoma,1
+hsa_circ_0044520,laryngeal squamous cell carcinoma,1
+hsa_circ_0044529,laryngeal squamous cell carcinoma,1
+hsa_circ_0059354,laryngeal squamous cell carcinoma,1
+hsa_circ_0092012,laryngeal squamous cell carcinoma,1
+circRNA_0072309,liver cancer,1
+hsa_circ_0091579,liver cancer,1
+hsa_circ_100395,liver cancer,1
+hsa_circ_100395,lung cancer,1
+hsa_circ_100395,ovarian cancer,1
+hsa_circ_0003028,liver cancer,1
+hsa_circ_0007915,liver cancer,1
+hsa_circ_0071410,liver cancer,1
+circABCC4,lung adenocarcinoma,1
+circABCC4,prostate cancer,1
+circ-ENO1,lung adenocarcinoma,1
+circPUM1,lung adenocarcinoma,1
+circPUM1,ovarian cancer,1
+circRNF13,lung adenocarcinoma,1
+circ-SOX4,lung adenocarcinoma,1
+cMras,lung adenocarcinoma,1
+hsa_circ_0000792,lung adenocarcinoma,1
+hsa_circ_0002346,lung adenocarcinoma,1
+hsa_circ_0003998,lung adenocarcinoma,1
+hsa_circ_0003998,non-small cell lung cancer,1
+hsa_circ_0006427,lung adenocarcinoma,1
+hsa_circ_0012673,lung adenocarcinoma,1
+hsa_circ_0012673,lung cancer,1
+hsa_circ_0020732,lung adenocarcinoma,1
+hsa_circ_0025036,lung adenocarcinoma,1
+hsa_circ_0013958,lung adenocarcinoma,1
+hsa_circ_0000729,lung adenocarcinoma,1
+circ-AKT3,lung cancer,1
+circ-AKT3,renal cell carcinoma,1
+circ-BANP,lung cancer,1
+circGFRA1,lung cancer,1
+circGFRA1,ovarian cancer,1
+hsa_circ_0006916,lung cancer,1
+hsa_circ_0007059,lung cancer,1
+hsa_circ_0046264,lung cancer,1
+hsa_circRNA_103809,lung cancer,1
+hsa_circRNA_103595,lung cancer,1
+hsa_circ_0001821,lung cancer,1
+circ-PAX2,lung squamous cell carcinoma,1
+circTP63,lung squamous cell carcinoma,1
+hsa_circ_0000408,lung squamous cell carcinoma,1
+circRNA_0084043,malignant melanoma,1
+hsa_circ_0025039,malignant melanoma,1
+circ-FOXM1,melanoma,1
+circ-FOXM1,non-small cell lung cancer,1
+circ-FOXM1,papillary thyroid cancer,1
+circMYC,melanoma,1
+hsa_circ_0017247,melanoma,1
+hsa_circ_0084043,melanoma,1
+hsa_circ_0012342,mucoepidermoid carcinoma,1
+hsa_circ_0000190,multiple myeloma,1
+hsa_circ_0000190,osteosarcoma,1
+circRNA_000543,nasopharyngeal carcinoma,1
+circRPMS1,nasopharyngeal carcinoma,1
+circ-ACACA,non-small cell lung cancer,1
+circBIRC6,non-small cell lung cancer,1
+circFARSA,non-small cell lung cancer,1
+circFGFR1,non-small cell lung cancer,1
+circFGFR3,non-small cell lung cancer,1
+circMTDH.4,non-small cell lung cancer,1
+circP4HB,non-small cell lung cancer,1
+circRNA_100146,non-small cell lung cancer,1
+circSMARCA5,non-small cell lung cancer,1
+hsa_circ_0000003,non-small cell lung cancer,1
+hsa_circ_0000735,non-small cell lung cancer,1
+hsa_circ_0001727,non-small cell lung cancer,1
+hsa_circ_0003645,non-small cell lung cancer,1
+hsa_circ_0004015,non-small cell lung cancer,1
+hsa_circ_0007385,non-small cell lung cancer,1
+hsa_circ_0008305,non-small cell lung cancer,1
+hsa_circ_0011780,non-small cell lung cancer,1
+hsa_circ_0012384,non-small cell lung cancer,1
+hsa_circ_0016760,non-small cell lung cancer,1
+hsa_circ_0020123,non-small cell lung cancer,1
+hsa_circ_0026134,non-small cell lung cancer,1
+hsa_circ_0043278,non-small cell lung cancer,1
+hsa_circ_0043278,osteosarcoma,1
+hsa_circ_0062389,non-small cell lung cancer,1
+hsa_circ_0072083,non-small cell lung cancer,1
+hsa_circ_0076305,non-small cell lung cancer,1
+hsa_circ_0078767,non-small cell lung cancer,1
+hsa_circ_0087862,non-small cell lung cancer,1
+hsa_circ_0043256,non-small cell lung cancer,1
+circATRNL1,oral squamous cell carcinoma,1
+circ-PKD2,oral squamous cell carcinoma,1
+circ-SCARB1,oral squamous cell carcinoma,1
+hsa_circ_0000140,oral squamous cell carcinoma,1
+hsa_circ_0001971,oral squamous cell carcinoma,1
+hsa_circ_0002185,oral squamous cell carcinoma,1
+hsa_circ_0008309,oral squamous cell carcinoma,1
+hsa_circ_0072387,oral squamous cell carcinoma,1
+hsa_circ_009755,oral squamous cell carcinoma,1
+hsa_circRNA_100533,oral squamous cell carcinoma,1
+circ_ANKIB1,osteosarcoma,1
+circ_ARF3,osteosarcoma,1
+circ_ORC2,osteosarcoma,1
+circEPSTI1,osteosarcoma,1
+circEPSTI1,ovarian cancer,1
+circEPSTI1,triple-negative breast cancer,1
+circFAT1,osteosarcoma,1
+circMYO10,osteosarcoma,1
+circNASP,osteosarcoma,1
+circRNA_100876,osteosarcoma,1
+circTCF25,osteosarcoma,1
+hsa_circ_0001105,osteosarcoma,1
+hsa_circ_0001564,osteosarcoma,1
+hsa_circ_0001721,osteosarcoma,1
+hsa_circ_0001785,osteosarcoma,1
+hsa_circ_0002052,osteosarcoma,1
+hsa_circ_0004846,osteosarcoma,1
+hsa_circ_0008792,osteosarcoma,1
+hsa_circ_0051079,osteosarcoma,1
+hsa_circ_0060428,osteosarcoma,1
+hsa_circ_0102049,osteosarcoma,1
+hsa_circ_0092509,osteosarcoma,1
+hsa_circ_0056288,osteosarcoma,1
+circ-CSPP1,ovarian cancer,1
+circ-FAM53B,ovarian cancer,1
+circPLEKHM3,ovarian cancer,1
+circRhoC,ovarian cancer,1
+circWHSC1,ovarian cancer,1
+hsa_circ_0004390,ovarian cancer,1
+hsa_circ_0007874,ovarian cancer,1
+hsa_circ_0051240,ovarian cancer,1
+circ-ADAM9,pancreatic cancer,1
+circ-IARS,pancreatic cancer,1
+circ-LDLRAD3,pancreatic cancer,1
+circ-PDE8A,pancreatic cancer,1
+circRHOT1,pancreatic cancer,1
+hsa_circ_0000977,pancreatic cancer,1
+hsa_circ_0000977,pancreatic ductal adenocarcinoma,1
+hsa_circ_0006215,pancreatic cancer,1
+hsa_circ_0099999,pancreatic cancer,1
+circ-ASH2L,pancreatic ductal adenocarcinoma,1
+circFOXK2,pancreatic ductal adenocarcinoma,1
+hsa_circ_001653,pancreatic ductal adenocarcinoma,1
+hsa_circ_0030235,pancreatic ductal adenocarcinoma,1
+hsa_circRNA_0007334,pancreatic ductal adenocarcinoma,1
+circBACH2,papillary thyroid cancer,1
+circNUP214,papillary thyroid cancer,1
+circRAPGEF5,papillary thyroid cancer,1
+hsa_circ_0004458,papillary thyroid cancer,1
+hsa_circ_0005273,papillary thyroid cancer,1
+hsa_circ_0025033,papillary thyroid cancer,1
+hsa_circ_0015278,papillary thyroid cancer,1
+hsa_circRNA_004662,papillary thyroid cancer,1
+hsa_circRNA_014213,papillary thyroid cancer,1
+hsa_circRNA_046843,papillary thyroid cancer,1
+hsa_circRNA_061346,papillary thyroid cancer,1
+hsa_circRNA_101408,papillary thyroid cancer,1
+circ_KATNAL1,prostate cancer,1
+circ_SLC19A1,prostate cancer,1
+circAMOTL1L,prostate cancer,1
+circGUCY1A2,prostate cancer,1
+circLMTK2,prostate cancer,1
+circSLC7A6,prostate cancer,1
+circZFP57,prostate cancer,1
+hsa_circ_0001206,prostate cancer,1
+hsa_circ_0006404,prostate cancer,1
+hsa_circ_0057558,prostate cancer,1
+hsa_circ_0062019,prostate cancer,1
+hsa_circ_0141940,prostate cancer,1
+hsa_circRNA_008068,prostate cancer,1
+hsa_circRNA_091420,prostate cancer,1
+hsa_circRNA_101981,prostate cancer,1
+hsa_circRNA_406557,prostate cancer,1
+circ-ZNF652,renal carcinoma,1
+circPRRC2A,renal cell carcinoma,1
+hsa_circ_000926,renal cell carcinoma,1
+hsa_circ_0035483,renal clear cell carcinoma,1
+hsa_circ_0093996,retinoblastoma,1
+hsa_circ_0059655,salivary adenoid cystic carcinoma,1
+circ-LAMP1,T-cell lymphoblastic lymphoma,1
+circNEK6,thyroid cancer,1
+hsa_circ_0011385,thyroid cancer,1
+hsa_circ_0058124,thyroid cancer,1
+hsa_circ_0060060,thyroid cancer,1
+hsa_circ_0001742,tongue squamous cell carcinoma,1
+hsa_circ_081069,tongue squamous cell carcinoma,1
+circPLK1,triple-negative breast cancer,1
+circSEPT9,triple-negative breast cancer,1
+circTADA2A-E6,triple-negative breast cancer,1
+hsa_circRNA_000479,triple-negative breast cancer,1
+hsa_circ_0001451,triple-negative breast cancer,1
+hsa_circ_0001846,triple-negative breast cancer,1
+hsa_circ_0002453,triple-negative breast cancer,1
+hsa_circ_0007294,triple-negative breast cancer,1
+hsa_circ_0009362,triple-negative breast cancer,1
+circFAM114A2,urothelial carcinoma of bladder,1
+hsa_circ_0002052,endometrial cancer,0
+hsa_circ_0001098,kidney clear cell carcinoma,0
+hsa_circ_0062389,bladder cancer,0
+hsa_circ_0079993,diffuse large B-cell lymphoma,0
+hsa_circ_100290,ovarian cancer,0
+hsa_circ_0006215,laryngeal squamous cell carcinoma,0
+circRNA_100284,triple-negative breast cancer,0
+hsa_circ_0058092,melanoma,0
+circITGA7,hepatoblastoma,0
+hsa_circ_0006916,breast cancer,0
+circRNA_001275,T-cell lymphoblastic lymphoma,0
+circ-PAX2,triple-negative breast cancer,0
+circ-BANP,breast cancer,0
+hsa_circ_0001721,glioma,0
+circSMO742,cervical cancer,0
+hsa_circ_001598,renal clear cell carcinoma,0
+hsa_circ_100290,castration-resistant prostate cancer,0
+hsa_circ_0037655,colorectal cancer,0
+hsa_circ_0001461,cervical cancer,0
+hsa_circ_0012673,salivary adenoid cystic carcinoma,0
+circRNA-CER,epithelial ovarian cancer,0
+hsa_circ_0003855,renal clear cell carcinoma,0
+hsa_circ_0016760,castration-resistant prostate cancer,0
+hsa_circ_0043949,non-small cell lung cancer,0
+hsa_circ_0057481,endometrial cancer,0
+hsa_circ_0044529,gastric cancer,0
+circFAT1,esophageal cancer,0
+hsa_circRNA_061346,glioblastoma multiforme,0
+hsa_circ_0001900,hepatic carcinoma,0
+hsa_circ_0091581,esophageal squamous cell cancer,0
+hsa_circ_0001451,endometrial cancer,0
+circRNA_100284,oral squamous cell carcinoma,0
+hsa_circRNA_101764,colon cancer,0
+hsa_circ_0000003,hepatic carcinoma,0
+circ-FOXP1,laryngeal cancer,0
+hsa_circ_0025033,acute promyelocytic leukemia,0
+circRIP2,castration-resistant prostate cancer,0
+circ-SFMBT2,non-small cell lung cancer,0
+circITGA7,pancreatic cancer,0
+circRNF13,castration-resistant prostate cancer,0
+hsa_circ_0000495,pancreatic cancer,0
+hsa_circ_0042666,lung adenocarcinoma,0
+circNF1,esophageal cancer,0
+hsa_circRNA_100833,liver cancer,0
+hsa_circRNA_061346,cervical cancer,0
+hsa_circ_0000003,oral squamous cell carcinoma,0
+circ-ZNF264,colorectal cancer,0
+hsa_circRNA_061346,glioblastoma,0
+hsa_circ_101555,ovarian cancer,0
+circRNA_001569,esophageal cancer,0
+hsa_circRNA_061346,diffuse large B-cell lymphoma,0
+hsa_circ_0072309,hepatic carcinoma,0
+circ-HOMER1,castration-resistant prostate cancer,0
+circ_ORC2,renal cell carcinoma,0
+hsa_circ_0000799,renal clear cell carcinoma,0
+hsa_circ_0008234,triple-negative breast cancer,0
+hsa_circ_0092012,gastric cancer,0
+hsa_circ_000926,Infantile hemangioma,0
+circPLEKHM3,pancreatic cancer,0
+hsa_circ_0011780,renal carcinoma,0
+hsa_circ_0002185,breast cancer,0
+hsa_circ_0026134,glioblastoma,0
+hsa_circRNA_000479,multiple myeloma,0
+hsa_circ_0056618,laryngeal squamous cell carcinoma,0
+hsa_circRNA_004662,hepatoblastoma,0
+hsa_circRNA_100834,glioblastoma,0
+circZFR,cutaneous squamous cell carcinoma,0
+circNR3C1,nasopharyngeal carcinoma,0
+ciRS-133,colorectal cancer,0
+hsa_circ_0000993,osteosarcoma,0
+hsa_circ_009755,esophageal cancer,0
+circ-EZH2,chronic lymphocytic leukemia,0
+circMYC,chronic lymphocytic leukemia,0
+circCTDP1,castration-resistant prostate cancer,0
+hsa_circ_0004214,lung cancer,0
+hsa_circ_0001742,lung squamous cell carcinoma,0
+circTP63,renal cell carcinoma,0
+hsa_circRNA_001654,hepatocellular carcinoma,0
+hsa_circ_0005963,renal carcinoma,0
+hsa_circ_0056288,bladder urothelial carcinoma,0
+hsa_circ_0001564,hepatic carcinoma,0
+hsa_circ_001783,chronic myeloid leukemia,0
+hsa_circ_0000654,diffuse large B-cell lymphoma,0
+circ-NSD2,triple-negative breast cancer,0
+circRNA_100284,renal clear cell carcinoma,0
+circUBAP2,cholangiocarcinoma,0
+circ-ZNF264,hepatic carcinoma,0
+circSLC3A2,tongue squamous cell carcinoma,0
+hsa_circ_0067934,laryngeal squamous cell carcinoma,0
+circ-ENO1,chronic lymphocytic leukemia,0
+hsa_circ_0072391,lung squamous cell carcinoma,0
+circFARSA,bladder cancer,0
+circAMOTL1L,ovarian cancer,0
+circABCC2,esophageal squamous cell cancer,0
+hsa_circ_0015756,ovarian cancer,0
+circAGFG1,ovarian cancer,0
+circPICALM,renal cell carcinoma,0
+circ-EIF4G3,laryngeal squamous cell carcinoma,0
+hsa_circ_0001429,esophageal squamous cell cancer,0
+hsa_circRNA_102336,esophageal cancer,0
+circBACH2,endometrial cancer,0
+circSEPT9,pancreatic cancer,0
+hsa_circ_0068033,head and neck squamous cell carcinoma,0
+hsa_circ_0005027,liver cancer,0
+hsa_circ_0003855,nasopharyngeal carcinoma,0
+hsa_circ_0005576,epithelial ovarian cancer,0
+hsa_circ_0030235,glioblastoma,0
+hsa_circ_0059354,tongue squamous cell carcinoma,0
+circ-BANP,epithelial ovarian cancer,0
+circ-PDE8A,liver cancer,0
+hsa_circ_0001461,hepatocellular carcinoma,0
+hsa_circ_0101432,intrahepatic cholangiocarcinoma,0
+hsa_circ_0043256,diffuse large B-cell lymphoma,0
+circMYO9B,lung squamous cell carcinoma,0
+cMras,chronic myeloid leukemia,0
+hsa_circ_0001098,rectal cancer,0
+circRNA_100284,cervical cancer,0
+hsa_circ_0058092,ovarian cancer,0
+circRNA_101505,non-small cell lung cancer,0
+hsa_circ_0012673,salivary adenoid cystic carcinoma,0
+circ_ARF3,salivary adenoid cystic carcinoma,0
+hsa_circ_0067835,gallbladder cancer,0
+circ-NSD2,renal cell carcinoma,0
+circUVRAG,renal cell carcinoma,0
+circFNDC3B,glioma,0
+hsa_circ_0005100,chronic lymphocytic leukemia,0
+hsa_circ_0008106,lung squamous cell carcinoma,0
+hsa_circ_CSPP1,bladder cancer,0
+BCRC-3,epithelial ovarian cancer,0
+hsa_circ_0004846,colon cancer,0
+hsa_circ_0008450,head and neck squamous cell carcinoma,0
+hsa_circ_0061140,osteosarcoma,0
+hsa_circ_0002577,diffuse large B-cell lymphoma,0
+hsa_circ_0067934,retinoblastoma,0
+hsa_circ_0005075,oral squamous cell carcinoma,0
+circ-DCAF6,cervical cancer,0
+circAMOTL1L,cervical cancer,0
+hsa_circ_0004771,oral squamous cell carcinoma,0
+hsa_circ_0012673,hypopharyngeal cancer,0
+hsa_circRNA_0007874,diffuse large B-cell lymphoma,0
+circITGA7,malignant melanoma,0
+circPRRC2A,Infantile hemangioma,0
+circ-ERBB2,acute promyelocytic leukemia,0
+hsa_circ_0006215,esophageal squamous cell cancer,0
+hsa_circ_0061868,papillary thyroid cancer,0
+hsa_circ_0002211,renal carcinoma,0
+circNR3C1,chronic lymphocytic leukemia,0
+circHIAT1,non-small cell lung cancer,0
+hsa_circRNA_406557,castration-resistant prostate cancer,0
+hsa_circ_0046264,kidney clear cell carcinoma,0
+circATXN7,glioma,0
+hsa_circ_0001178,laryngeal squamous cell carcinoma,0
+hsa_circ_0026344,breast cancer,0
+circMLLT10,multiple myeloma,0
+hsa_circ_0000729,renal carcinoma,0
+circPICALM,renal carcinoma,0
+circFARSA,cervical cancer,0
+circRPMS1,renal carcinoma,0
+hsa_circ_0007534,bladder urothelial carcinoma,0
+circLPAR1,bladder urothelial carcinoma,0
+circACAP2,renal clear cell carcinoma,0
+hsa_circ_0021093,chronic lymphocytic leukemia,0
+hsa_circ_0012673,diffuse large B-cell lymphoma,0
+hsa_circ_CSPP1,acute promyelocytic leukemia,0
+hsa_circ_0008365,tongue squamous cell carcinoma,0
+hsa_circ_0020123,multiple myeloma,0
+hsa_circ_100290,rectal cancer,0
+hsa_circ_0002768,endometrial cancer,0
+hsa_circ_0068033,head and neck squamous cell carcinoma,0
+circ_ANKIB1,esophageal cancer,0
+circ-SFMBT2,acute myeloid leukemia,0
+hsa_circ_0000291,intrahepatic cholangiocarcinoma,0
+circRNA_036186,castration-resistant prostate cancer,0
+hsa_circ_0092509,colon cancer,0
+hsa_circ_0005027,lung cancer,0
+hsa_circ_0092012,glioblastoma,0
+circRNA_100284,multiple myeloma,0
+circKIF4A,thyroid cancer,0
+hsa_circ_0046600,bladder urothelial carcinoma,0
+hsa_circ_0000792,renal clear cell carcinoma,0
+hsa_circ_103809,liver cancer,0
+hsa_circ_0000993,colon cancer,0
+circPLK1,mucoepidermoid carcinoma,0
+hsa_circRNA_100833,kidney clear cell carcinoma,0
+hsa_circ_0001368,melanoma,0
+hsa_circ_0003998,hepatic carcinoma,0
+circMLLT10,rectal cancer,0
+hsa_circ_0103809,papillary thyroid cancer,0
+circPICALM,urothelial carcinoma of bladder,0
+hsa_circ_001653,esophageal squamous cell cancer,0
+circNR3C1,laryngeal squamous cell carcinoma,0
+circ-PRMT5,castration-resistant prostate cancer,0
+hsa_circ_100219,nasopharyngeal carcinoma,0
+circ-PDE8A,clear cell renal cell carcinoma,0
+hsa_circ_0060060,lung adenocarcinoma,0
+hsa_circ_0001721,mucoepidermoid carcinoma,0
+hsa_circ_0062389,tongue squamous cell carcinoma,0
+hsa_circ_0007534,cutaneous squamous cell carcinoma,0
+hsa_circ_0006427,colon cancer,0
+hsa_circ_0023404,lung cancer,0
+circIRAK3,T-cell lymphoblastic lymphoma,0
+hsa_circ_0072083,laryngeal squamous cell carcinoma,0
+hsa_circ_0001206,melanoma,0
+hsa_circ_0047688,T-cell lymphoblastic lymphoma,0
+hsa_circRNA_103595,acute myeloid leukemia,0
+hsa_circ_0014359,mucoepidermoid carcinoma,0
+hsa_circRNA_100533,gastric cancer,0
+hsa_circ_0001742,intrahepatic cholangiocarcinoma,0
+hsa_circ_104075,endometrial cancer,0
+hsa_circ_0006528,oral squamous cell carcinoma,0
+hsa_circ_0003855,esophageal squamous cell cancer,0
+circRNA_000911,glioblastoma,0
+circCLK3,urothelial carcinoma of bladder,0
+hsa_circ_0002185,thyroid cancer,0
+circ-TCF4.85,prostate cancer,0
+hsa_circ_100290,cervical cancer,0
+circPSMC3,bladder urothelial carcinoma,0
+circFUT8,tongue squamous cell carcinoma,0
+hsa_circ_0007059,mucoepidermoid carcinoma,0
+hsa_circRNA_100533,intrahepatic cholangiocarcinoma,0
+circCEP128,liver cancer,0
+circ-AKT3,chronic myeloid leukemia,0
+hsa_circ_0046600,renal cell carcinoma,0
+hsa_circ_0012342,epithelial ovarian cancer,0
+hsa_circ_0001073,liver cancer,0
+hsa_circRNA_086376,gastric cancer,0
+hsa_circ_0137439,glioma,0
+hsa_circ_0004928,liver cancer,0
+hsa_circ_0088732,renal carcinoma,0
+hsa_circ_100395,gastric cancer,0
+hsa_circ_0141940,malignant melanoma,0
+circC3P1,multiple myeloma,0
+hsa_circRNA_000479,osteosarcoma,0
+hsa_circ_0006990,head and neck squamous cell carcinoma,0
+hsa_circRNA_100833,hypopharyngeal cancer,0
+circPLK1,colorectal cancer,0
+hsa_circ_0006215,colon cancer,0
+hsa_circ_0002346,tongue squamous cell carcinoma,0
+hsa_circRNA_101996,chronic lymphocytic leukemia,0
+hsa_circ_0020123,osteosarcoma,0
+hsa_circ_0005986,chronic lymphocytic leukemia,0
+hsa_circ_0000190,rectal cancer,0
+hsa_circ_0001564,esophageal squamous cell cancer,0
+hsa_circ_0000673,bladder cancer,0
+hsa_circ_103809,hepatic carcinoma,0
+hsa_circ_0003855,urothelial carcinoma of bladder,0
+circP4HB,clear cell renal cell carcinoma,0
+hsa_circRNA_091420,renal cell carcinoma,0
+hsa_circ_0072088,endometrial cancer,0
+hsa_circRNA_102116,cholangiocarcinoma,0
+circATRNL1,mucoepidermoid carcinoma,0
+hsa_circRNA_100533,gastric cancer,0
+hsa_circ_0005576,glioma,0
+hsa_circ_0003998,cholangiocarcinoma,0
+circRNA_101368,pancreatic cancer,0
+circFOXK2,retinoblastoma,0
+circRNA_001569,ovarian cancer,0
+hsa_circ_0000408,triple-negative breast cancer,0
+hsa_circ_0004771,lung squamous cell carcinoma,0
+circ-CBFB,hypopharyngeal cancer,0
+hsa_circ_0003258,colorectal cancer,0
+circNUP214,renal carcinoma,0
+circRNA_104433,salivary adenoid cystic carcinoma,0
+hsa_circ_0046600,castration-resistant prostate cancer,0
+hsa_circRNA_091420,hepatic carcinoma,0
+hsa_circ_0001727,pancreatic ductal adenocarcinoma,0
+hsa_circ_0071410,lung cancer,0
+circPSMC3,urothelial carcinoma of bladder,0
+circC3P1,liver cancer,0
+circYAP1,multiple myeloma,0
+circ-ZNF264,urothelial carcinoma of bladder,0
+hsa_circ_0001429,cholangiocarcinoma,0
+hsa_circ_0001451,acute promyelocytic leukemia,0
+hsa_circ_0000977,acute myeloid leukemia,0
+hsa_circ_001653,acute promyelocytic leukemia,0
+circASAP1,prostate cancer,0
+hsa_circ_0008039,chronic lymphocytic leukemia,0
+circCTDP1,chronic lymphocytic leukemia,0
+circ2174,chronic myeloid leukemia,0
+hsa_circ_0062019,urothelial carcinoma of bladder,0
+hsa_circ_0051443,lung cancer,0
+hsa_circ_0058124,laryngeal cancer,0
+hsa_circ_0071589,head and neck squamous cell carcinoma,0
+circ-PGAM1,glioblastoma multiforme,0
+hsa_circRNA_0007334,colorectal cancer,0
+hsa_circ_0000218,clear cell renal cell carcinoma,0
+hsa_circ_0075341,colorectal cancer,0
+hsa_circ_0043949,multiple myeloma,0
+circSLC8A1,castration-resistant prostate cancer,0
+hsa_circ_0137606,colon cancer,0
+hsa_circ_0093996,papillary thyroid cancer,0
+circ-AKT3,oral squamous cell carcinoma,0
+hsa_circ_0055625,diffuse large B-cell lymphoma,0
+hsa_circ_0078710,head and neck squamous cell carcinoma,0
+circ-RanGAP1,glioblastoma,0
+circPICALM,mucoepidermoid carcinoma,0
+hsa_circ_0009361,melanoma,0
+circEPSTI1,thyroid cancer,0
+circMTDH.4,chronic lymphocytic leukemia,0
+circCCT3,laryngeal cancer,0
+circPICALM,hepatic carcinoma,0
+hsa_circ_0075828,cutaneous squamous cell carcinoma,0
+hsa_circ_0001546,laryngeal squamous cell carcinoma,0
+hsa_circ_0059655,T-cell lymphoblastic lymphoma,0
+circSMARCA5,lung cancer,0
+hsa_circ_0002052,esophageal squamous cell cancer,0
+hsa_circ_0002185,T-cell lymphoblastic lymphoma,0
+hsa_circ_0001982,colon cancer,0
+hsa_circ_0025039,glioblastoma multiforme,0
+circRNA_000284,breast cancer,0
+circHIAT1,liver cancer,0
+hsa_circRNA_406557,esophageal cancer,0
+hsa_circ_0004015,clear cell renal cell carcinoma,0
+circRPMS1,non-small cell lung cancer,0
+hsa_circ_0000092,renal cell carcinoma,0
+circDOCK1,gastric cancer,0
+hsa_circ_0001429,prostate cancer,0
+hsa_circ_0005075,gastric cancer,0
+hsa_circ_0001725,triple-negative breast cancer,0
+hsa_circ_0001451,melanoma,0
+hsa_circ_0006848,laryngeal cancer,0
+hsa_circ_0008106,renal carcinoma,0
+hsa_circ_0006404,liver cancer,0
+hsa_circ_0008305,clear cell renal cell carcinoma,0
+hsa_circ_0067835,prostate cancer,0
+hsa_circ_0051240,breast cancer,0
+hsa_circ_0026344,T-cell lymphoblastic lymphoma,0
+circ-SOX4,cutaneous squamous cell carcinoma,0
+hsa_circ_0001073,renal clear cell carcinoma,0
+hsa_circ_0001742,rectal cancer,0
+hsa_circ_0092306,pancreatic cancer,0
+circFBLIM1,bladder cancer,0
+cTFRC,laryngeal cancer,0
+hsa_circ_0103809,laryngeal squamous cell carcinoma,0
+hsa_circ_0101432,cutaneous squamous cell carcinoma,0
+hsa_circ_0001429,castration-resistant prostate cancer,0
+hsa_circ_0009362,melanoma,0
+circPTN,rectal cancer,0
+hsa_circRNA_001654,kidney clear cell carcinoma,0
+hsa_circ_100219,thyroid cancer,0
+hsa_circ_0091570,colon cancer,0
+hsa_circ_0015756,oral squamous cell carcinoma,0
+hsa_circ_0072391,esophageal cancer,0
+hsa_circ_0006215,laryngeal squamous cell carcinoma,0
+hsa_circRNA_103809,breast cancer,0
+circRNA_8924,glioma,0
+hsa_circ_0000267,glioblastoma multiforme,0
+circPVT1,nasopharyngeal carcinoma,0
+hsa_circ_0000376,esophageal squamous cell cancer,0
+hsa_circ_0016760,urothelial carcinoma of bladder,0
+hsa_circ_0062389,thyroid cancer,0
+hsa_circ_0003645,chronic myeloid leukemia,0
+hsa_circ_0001725,acute myeloid leukemia,0
+hsa_circ_0001846,clear cell renal cell carcinoma,0
+hsa_circ_0102049,liver cancer,0
+circ-UBE2D2,papillary thyroid cancer,0
+hsa_circ_0001742,glioma,0
+hsa_circ_0041103,prostate cancer,0
+hsa_circ_0046701,renal carcinoma,0
+hsa_circ_0072387,prostate cancer,0
+circRHOT1,malignant melanoma,0
+hsa_circ_0043949,cholangiocarcinoma,0
+hsa_circ_0001658,hepatoblastoma,0
+circRhoC,T-cell lymphoblastic lymphoma,0
+circNT5E,hepatocellular carcinoma,0
+hsa_circ_0000567,T-cell lymphoblastic lymphoma,0
+circFNDC3B,liver cancer,0
+circ-SCARB1,clear cell renal cell carcinoma,0
+hsa_circ_0004846,multiple myeloma,0
+hsa_circ_0061825,colorectal cancer,0
+hsa_circ_0004390,laryngeal squamous cell carcinoma,0
+hsa_circ_0000567,pancreatic ductal adenocarcinoma,0
+circ-PDE8A,gastric cancer,0
+hsa_circRNA_061346,gastric cancer,0
+hsa_circRNA_102116,esophageal squamous cell cancer,0
+ciRs-6,kidney clear cell carcinoma,0
+hsa_circ_100219,chronic lymphocytic leukemia,0
+hsa_circ_0102049,castration-resistant prostate cancer,0
+hsa_circ_0003998,multiple myeloma,0
+hsa_circ_0025202,renal carcinoma,0
+hsa_circ_0000144,esophageal cancer,0
+hsa_circ_0007385,pancreatic cancer,0
+hsa_circ_0000799,lung cancer,0
+circ-PRKCI,prostate cancer,0
+hsa_circ_0073237,osteosarcoma,0
+hsa_circ_0006215,laryngeal squamous cell carcinoma,0
+hsa_circ_0006948,cutaneous squamous cell carcinoma,0
+hsa_circRNA_102761,renal carcinoma,0
+hsa_circ_0005100,ovarian cancer,0
+hsa_circ_0001982,retinoblastoma,0
+hsa_circ_0072995,tongue squamous cell carcinoma,0
+circ-ENO1,tongue squamous cell carcinoma,0
+circITGA7,pancreatic ductal adenocarcinoma,0
+circFGFR3,kidney clear cell carcinoma,0
+circRAPGEF5,rectal cancer,0
+hsa_circRNA_102116,lung adenocarcinoma,0
+hsa_circ_100338,colon cancer,0
+hsa_circ_0002346,gallbladder cancer,0
+circPTGR1,acute myeloid leukemia,0
+hsa_circ_0079993,prostate cancer,0
+hsa_circRNA_105055,tongue squamous cell carcinoma,0
+circRBMS3,endometrial cancer,0
+hsa_circ_0013958,thyroid cancer,0
+hsa_circ_0012129,mucoepidermoid carcinoma,0
+circ_ARF3,mucoepidermoid carcinoma,0
+hsa_circ_0092306,hepatic carcinoma,0
+circSCAF11,gastric cancer,0
+circFGFR1,clear cell renal cell carcinoma,0
+circADAMTS14,multiple myeloma,0
+circ-PTPRZ1,esophageal squamous cell cancer,0
+circ-RanGAP1,renal cell carcinoma,0
+hsa_circ_0023303,liver cancer,0
+hsa_circ_0001725,Infantile hemangioma,0
+hsa_circ_0004458,cutaneous squamous cell carcinoma,0
+circRIP2,ovarian cancer,0
+hsa_circ_0052112,bladder cancer,0
+hsa_circ_0074027,melanoma,0
+hsa_circ_0057481,liver cancer,0
+hsa_circRNA_102116,chronic lymphocytic leukemia,0
+hsa_circ_0008309,malignant melanoma,0
+hsa_circ_101555,acute promyelocytic leukemia,0
+circATXN7,nasopharyngeal carcinoma,0
+hsa_circ_0000267,hepatic carcinoma,0
+circPTGR1,castration-resistant prostate cancer,0
+hsa_circ_0008792,tongue squamous cell carcinoma,0
+circCCDC66,rectal cancer,0
+circPSMC3,malignant melanoma,0
+hsa_circ_0006168,glioblastoma multiforme,0
+hsa_circ_0000977,hypopharyngeal cancer,0
+hsa_circ_0067934,hypopharyngeal cancer,0
+hsa_circ_0000204,kidney clear cell carcinoma,0
+circBIRC6,head and neck squamous cell carcinoma,0
+hsa_circ_0001105,hypopharyngeal cancer,0
+circGUCY1A2,lung cancer,0
+hsa_circ_0000592,oral squamous cell carcinoma,0
+hsa_circ_0005027,liver cancer,0
+circFNDC3B,glioma,0
+hsa_circ_0001546,castration-resistant prostate cancer,0
+circBMPR2,epithelial ovarian cancer,0
+circRNA_0047905,cutaneous squamous cell carcinoma,0
+hsa_circ_0060467,renal cell carcinoma,0
+hsa_circ_0005198,kidney clear cell carcinoma,0
+circMYLK,malignant melanoma,0
+circ-ZNF652,papillary thyroid cancer,0
+circANKS1B,hepatic carcinoma,0
+hsa_circ_0001821,acute promyelocytic leukemia,0
+circSEPT9,colon cancer,0
+hsa_circRNA_406557,colorectal cancer,0
+hsa_circ_0058063,epithelial ovarian cancer,0
+circZFP57,epithelial ovarian cancer,0
+circABCC2,papillary thyroid cancer,0
+circRNA_001569,nasopharyngeal carcinoma,0
+hsa_circ_0001098,clear cell renal cell carcinoma,0
+hsa_circ_0091579,tongue squamous cell carcinoma,0
+hsa_circ_0004846,cervical cancer,0
+circTRIM33-12,gallbladder cancer,0
+hsa_circRNA_101996,laryngeal squamous cell carcinoma,0
+circCCDC66,glioblastoma,0
+hsa_circ_0037655,retinoblastoma,0
+hsa_circ_0087862,laryngeal squamous cell carcinoma,0
+hsa_circ_0000993,diffuse large B-cell lymphoma,0
+circFARSA,renal clear cell carcinoma,0
+circGFRA1,non-small cell lung cancer,0
+circMAT2B,rectal cancer,0
+circ-RanGAP1,kidney clear cell carcinoma,0
+circDENND4C,mucoepidermoid carcinoma,0
+hsa_circ_0012129,glioblastoma,0
+hsa_circ_0001897,acute myeloid leukemia,0
+hsa_circRNA_101764,retinoblastoma,0
+hsa_circRNA_091420,osteosarcoma,0
+hsa_circ_001598,esophageal cancer,0
+hsa_circ_0000190,castration-resistant prostate cancer,0
+hsa_circ_0000467,lung cancer,0
+hsa_circ_0056836,melanoma,0
+hsa_circ_0051240,triple-negative breast cancer,0
+hsa_circ_0003645,colorectal cancer,0
+hsa_circ_0099999,non-small cell lung cancer,0
+hsa_circ_0075341,esophageal cancer,0
+hsa_circ_0002346,papillary thyroid cancer,0
+circGUCY1A2,acute promyelocytic leukemia,0
+hsa_circ_0034642,colon cancer,0
+hsa_circ_0039569,acute myeloid leukemia,0
+circRNA_001275,osteosarcoma,0
+hsa_circ_0061825,laryngeal cancer,0
+circABCC2,breast cancer,0
+circASS1,liver cancer,0
+circ_ANKIB1,laryngeal squamous cell carcinoma,0
+hsa_circ_0021093,laryngeal squamous cell carcinoma,0
+hsa_circ_0001727,hepatic carcinoma,0
+hsa_circ_0044529,bladder cancer,0
+circRNA_104433,rectal cancer,0
+circPLEKHM3,endometrial cancer,0
+hsa_circ_0002142,Infantile hemangioma,0
+hsa_circ_0015758,diffuse large B-cell lymphoma,0
+hsa_circ_0001564,Infantile hemangioma,0
+hsa_circ_000839,cervical cancer,0
+hsa_circ_0000376,triple-negative breast cancer,0
+circAGFG1,breast cancer,0
+circNASP,oral squamous cell carcinoma,0
+circLARP4,lung squamous cell carcinoma,0
+circMYLK,glioblastoma,0
+circ-CBFB,salivary adenoid cystic carcinoma,0
+circ-SOX4,cervical cancer,0
+hsa_circ_0056836,cutaneous squamous cell carcinoma,0
+hsa_circ_0016788,acute myeloid leukemia,0
+hsa_circ_0000673,hypopharyngeal cancer,0
+hsa_circ_0018069,pancreatic cancer,0
+hsa_circ_0000554,renal carcinoma,0
+hsa_circ_0032627,pancreatic cancer,0
+circAGFG1,castration-resistant prostate cancer,0
+circPLK1,Infantile hemangioma,0
+circKDM4C,intrahepatic cholangiocarcinoma,0
+circ-CEP85L,ovarian cancer,0
+circRNA_0084043,pancreatic cancer,0
+hsa_circ_0052112,liver cancer,0
+hsa_circ_0001313,oral squamous cell carcinoma,0
+hsa_circ_0070934,tongue squamous cell carcinoma,0
+hsa_circ_0004015,salivary adenoid cystic carcinoma,0
+hsa_circ_001569,endometrial cancer,0
+hsa_circ_0026344,thyroid cancer,0
+circ-NSD2,urothelial carcinoma of bladder,0
+hsa_circ_0008450,papillary thyroid cancer,0
+hsa_circRNA_000479,hypopharyngeal cancer,0
+hsa_circ_0043949,hepatic carcinoma,0
+hsa_circ_0008234,renal cell carcinoma,0
+hsa_circ_0005100,papillary thyroid cancer,0
+hsa_circ_0001658,colon cancer,0
+circRNA-ACAP2,lung adenocarcinoma,0
+hsa_circ_006100,nasopharyngeal carcinoma,0
+circRNA-ACAP2,triple-negative breast cancer,0
+hsa_circ_0091579,esophageal squamous cell cancer,0
+hsa_circ_0000003,renal carcinoma,0
+circLMTK2,retinoblastoma,0
+circPAN3,ovarian cancer,0
+circRNA_8924,glioblastoma multiforme,0
+circRAPGEF5,acute promyelocytic leukemia,0
+circMYO10,cervical cancer,0
+circZFP57,breast cancer,0
+circFGFR1,castration-resistant prostate cancer,0
+hsa_circ_0001178,glioblastoma,0
+circ-POSTN,bladder cancer,0
+hsa_circ_0000190,papillary thyroid cancer,0
+hsa_circ_0020123,oral squamous cell carcinoma,0
+circPLK1,oral squamous cell carcinoma,0
+circUBAP2,liver cancer,0
+hsa_circ_0012384,laryngeal squamous cell carcinoma,0
+hsa_circ_0001785,laryngeal cancer,0
+circSHKBP1,hepatocellular carcinoma,0
+hsa_circ_0075828,esophageal cancer,0
+hsa_circ_0004015,laryngeal squamous cell carcinoma,0
+hsa_circ_0001721,mucoepidermoid carcinoma,0
+circ-ZKSCAN1,renal cell carcinoma,0
+hsa_circRNA_101996,clear cell renal cell carcinoma,0
+hsa_circ_0091579,hepatic carcinoma,0
+circITGA7,lung squamous cell carcinoma,0
+hsa_circ_0006215,colon cancer,0
+hsa_circRNA_102336,esophageal squamous cell cancer,0
+hsa_circRNA_105055,pancreatic cancer,0
+hsa_circRNA_046843,acute promyelocytic leukemia,0
+hsa_circ_0001313,pancreatic ductal adenocarcinoma,0
+circTNFRSF21,laryngeal squamous cell carcinoma,0
+circCLK3,epithelial ovarian cancer,0
+circANKS1B,head and neck squamous cell carcinoma,0
+hsa_circ_0001073,nasopharyngeal carcinoma,0
+circBIRC6,intrahepatic cholangiocarcinoma,0
+circMLLT10,ovarian cancer,0
+hsa_circ_0043278,esophageal cancer,0
+hsa_circ_0092306,T-cell lymphoblastic lymphoma,0
+circ-ACACA,hepatocellular carcinoma,0
+hsa_circ_0016788,papillary thyroid cancer,0
+hsa_circ_0001846,salivary adenoid cystic carcinoma,0
+hsa_circRNA_101996,lung cancer,0
+hsa_circ_0008549,hypopharyngeal cancer,0
+circ-PITX1,urothelial carcinoma of bladder,0
+hsa_circ_0001846,esophageal cancer,0
+hsa_circ_0092303,glioblastoma,0
+hsa_circRNA_102761,bladder cancer,0
+hsa_circ_0021093,renal carcinoma,0
+hsa_circRNA_105055,endometrial cancer,0
+circMTO1,liver cancer,0
+circ-ABCB10,hepatoblastoma,0
+hsa_circ_0137606,hypopharyngeal cancer,0
+hsa_circ_0033550,esophageal squamous cell cancer,0
+circ-PTPRZ1,esophageal cancer,0
+hsa_circ_0033550,cholangiocarcinoma,0
+hsa_circ_0015758,laryngeal cancer,0
+circPUM1,melanoma,0
+hsa_circ_0008309,epithelial ovarian cancer,0
+circCCT3,hypopharyngeal cancer,0
+circRNA_101368,oral squamous cell carcinoma,0
+hsa_circ_0007059,gallbladder cancer,0
+hsa_circ_101280,gallbladder cancer,0
+circLPAR1,hepatic carcinoma,0
+hsa_circ_0006168,bladder cancer,0
+circNR3C1,laryngeal cancer,0
+hsa_circ_0037655,colorectal cancer,0
+circGUCY1A2,lung squamous cell carcinoma,0
+hsa_circRNA_105055,gallbladder cancer,0
+hsa_circ_0020397,cervical cancer,0
+circPICALM,renal carcinoma,0
+hsa_circRNA_100833,clear cell renal cell carcinoma,0
+circSMARCA5,glioblastoma,0
+circEIF4G2,lung adenocarcinoma,0
+circNEK6,cutaneous squamous cell carcinoma,0
+hsa_circ_0001727,laryngeal squamous cell carcinoma,0
+circNUP214,gallbladder cancer,0
+circEHMT1,papillary thyroid cancer,0
+circ_ORC2,glioblastoma multiforme,0
+hsa_circ_0081143,bladder urothelial carcinoma,0
+hsa_circRNA_102761,chronic myeloid leukemia,0
+hsa_circ_0000911,colorectal cancer,0
+circDENND4C,lung squamous cell carcinoma,0
+hsa_circ_0074027,bladder urothelial carcinoma,0
+hsa_circ_101280,hypopharyngeal cancer,0
+circRNA_0047905,Infantile hemangioma,0
+circFOXK2,cervical cancer,0
+hsa_circ_0043278,thyroid cancer,0
+hsa_circ_0057558,gastric cancer,0
+hsa_circ_0070934,epithelial ovarian cancer,0
+circPTGR1,multiple myeloma,0
+circPTGR1,chronic lymphocytic leukemia,0
+circ-FOXM1,head and neck squamous cell carcinoma,0
+hsa_circ_0037251,castration-resistant prostate cancer,0
+hsa_circRNA_101408,renal carcinoma,0
+hsa_circ_0000792,thyroid cancer,0
+circ-EZH2,chronic lymphocytic leukemia,0
+hsa_circ_0137439,gallbladder cancer,0
+hsa_circ_0004846,pancreatic cancer,0
+hsa_circRNA_406557,renal carcinoma,0
+circ-ASH2L,acute promyelocytic leukemia,0
+circCLK3,rectal cancer,0
+circ-FOXM1,rectal cancer,0
+hsa_circ_0002052,glioblastoma multiforme,0
+hsa_circ_0016760,pancreatic cancer,0
+cMras,cervical cancer,0
+hsa_circ_001653,head and neck squamous cell carcinoma,0
+hsa_circ_0044529,colorectal cancer,0
+circ-CDYL,chronic myeloid leukemia,0
+hsa_circ_0001098,renal carcinoma,0
+circCCT3,gallbladder cancer,0
+hsa_circ_0039411,multiple myeloma,0
+hsa_circ_101280,multiple myeloma,0
+hsa_circ_0072083,prostate cancer,0
+hsa_circ_0012342,renal clear cell carcinoma,0
+hsa_circ_0008450,prostate cancer,0
+hsa_circ_0000592,esophageal cancer,0
+hsa_circ_0002052,renal cell carcinoma,0

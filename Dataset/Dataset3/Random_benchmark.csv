@@ -1,0 +1,1147 @@
+circrna,disease,lable
+hsa_circ_0005540,multiple system atrophy,1
+hsa_circ_0032891,multiple system atrophy,1
+hsa_circ_0054211,multiple system atrophy,1
+hsa_circ_0038374,multiple system atrophy,1
+hsa_circ_0000615,hirschsprung disease,1
+hsa_circ_0000615,lupus nephritis,1
+hsa_circ_0000615,heart failure,1
+hsa_circ_0000615,myocardial infarction,1
+hsa_circ_0000615,coronary artery disease,1
+hsa_circ_0000615,diabetic retinopathy,1
+hsa_circ_0000615,duchenne muscular dystrophy,1
+hsa_circ_0000615,hirschsprung's disease,1
+hsa_circ_0000615,hypertension,1
+hsa_circ_0067209,moyamoya disease,1
+hsa_circ_0002078,moyamoya disease,1
+hsa_circ_0050898,moyamoya disease,1
+hsa_circ_0002569,moyamoya disease,1
+hsa_circ_0023903,moyamoya disease,1
+hsa_circ_0021001,intracranial aneurysms,1
+hsa_circ_0013509,cardiovascular disease,1
+hsa_circ_0072359,hepatoblastoma,1
+hsa_circ_0057336,hepatoblastoma,1
+hsa_circ_0023117,hepatoblastoma,1
+hsa_circ_0066077,hepatoblastoma,1
+hsa_circ_0023114,hepatoblastoma,1
+hsa_circ_0023110,hepatoblastoma,1
+hsa_circ_0043534,hepatoblastoma,1
+hsa_circ_0041731,hepatoblastoma,1
+hsa_circ_0078710,hepatoblastoma,1
+hsa_circ_0005931,hepatoblastoma,1
+hsa_circ_0045510,hepatoblastoma,1
+hsa_circ_0017515,hepatoblastoma,1
+hsa_circ_0079549,hepatoblastoma,1
+hsa_circ_0062163,hepatoblastoma,1
+hsa_circ_0067745,hepatoblastoma,1
+hsa_circ_0040081,hepatoblastoma,1
+hsa_circ_0015756,hepatoblastoma,1
+hsa_circ_0001649,cholangiocarcinoma,1
+hsa_circ_0001649,digestive system neoplasm,1
+hsa_circ_0001649,glioblastoma,1
+hsa_circ_0001649,glioma,1
+hsa_circ_0001649,colorectal cancer,1
+hsa_circ_0001649,hepatocellular carcinoma,1
+hsa_circ_0001649,gastric cancer,1
+hsa_circ_0002577,endometrial cancer,1
+hsa_circ_0003922,lupus nephritis,1
+hsa_circ_0008433,lupus nephritis,1
+hsa_circ_0001819,lupus nephritis,1
+hsa_circ_0001819,non-small cell lung cancer,1
+hsa_circ_0000219,lupus nephritis,1
+hsa_circ_0000175,lupus nephritis,1
+hsa_circ_0018168,acne,1
+hsa_circ_0086376,acne,1
+hsa_circ_0086376,colorectal cancer,1
+hsa_circ_0005941,acne,1
+hsa_circ_0001073,acne,1
+hsa_circ_0084927,acne,1
+hsa_circ_0040705,systemic lupus erythematosus,1
+hsa_circ_0021549,systemic lupus erythematosus,1
+hsa_circ_0046599,systemic lupus erythematosus,1
+hsa_circ_0008615,systemic lupus erythematosus,1
+hsa_circ_0001866,systemic lupus erythematosus,1
+hsa_circ_0034398,systemic lupus erythematosus,1
+hsa_circ_0003146,systemic lupus erythematosus,1
+hsa_circ_0092374,systemic lupus erythematosus,1
+hsa_circ_0002161,essential hypertension,1
+hsa_circ_0037911,essential hypertension,1
+hsa_circ_0001821,acute lymphoblastic leukemia,1
+hsa_circ_0001821,osteosarcoma,1
+hsa_circ_0001821,lung cancer,1
+hsa_circ_0001821,breast cancer,1
+hsa_circ_0001821,gastric cancer,1
+hsa_circ_0000118,colon cancer,1
+hsa_circ_0000118,glioblastoma,1
+hsa_circ_0089310,major depressive disorder,1
+hsa_circ_0056048,major depressive disorder,1
+hsa_circ_0001907,major depressive disorder,1
+hsa_circ_0001410,major depressive disorder,1
+hsa_circ_0005620,major depressive disorder,1
+hsa_circ_0001313,pancreatic cancer,1
+hsa_circ_0001313,cervical cancer,1
+hsa_circ_0001313,colorectal cancer,1
+hsa_circ_0001313,breast cancer,1
+hsa_circ_0006988,pancreatic cancer,1
+hsa_circ_0043138,pancreatic cancer,1
+hsa_circ_0043138,osteosarcoma,1
+hsa_circ_0000518,pancreatic cancer,1
+hsa_circ_0000518,multiple sclerosis,1
+hsa_circ_0000518,esophageal cancer,1
+hsa_circ_0052372,primary biliary cholangitis,1
+hsa_circ_0007788,postmenopausal osteoporosis,1
+hsa_circ_0006801,postmenopausal osteoporosis,1
+hsa_circ_0003391,postmenopausal osteoporosis,1
+hsa_circ_0028882,postmenopausal osteoporosis,1
+hsa_circ_0006766,postmenopausal osteoporosis,1
+hsa_circ_0001275,postmenopausal osteoporosis,1
+hsa_circ_0068087,heart disease,1
+hsa_circ_0068087,type 2 diabetes mellitus,1
+hsa_circ_0002908,pulmonary tuberculosis,1
+hsa_circ_0063179,pulmonary tuberculosis,1
+hsa_circ_0000414,pulmonary tuberculosis,1
+hsa_circ_0002362,pulmonary tuberculosis,1
+hsa_circ_0002113,pulmonary tuberculosis,1
+hsa_circ_0002113,breast cancer,1
+hsa_circ_0008797,pulmonary tuberculosis,1
+hsa_circ_0000681,pulmonary tuberculosis,1
+hsa_circ_0005538,pulmonary tuberculosis,1
+hsa_circ_0000074,pulmonary tuberculosis,1
+hsa_circ_0082569,gestational diabetes mellitus,1
+hsa_circ_0033299,gestational diabetes mellitus,1
+hsa_circ_0020159,gestational diabetes mellitus,1
+hsa_circ_0038383,gestational diabetes mellitus,1
+hsa_circ_0023404,non-small cell lung cancer,1
+hsa_circ_0023404,osteoarthritis,1
+hsa_circ_0023404,lung cancer,1
+hsa_circ_0000284,non-small cell lung cancer,1
+hsa_circ_0000284,glioblastoma,1
+hsa_circ_0000284,cervical cancer,1
+hsa_circ_0000284,bladder cancer,1
+hsa_circ_0000284,diabetes mellitus,1
+hsa_circ_0000284,osteosarcoma,1
+hsa_circ_0000284,pre-eclampsia,1
+hsa_circ_0000284,lung cancer,1
+hsa_circ_0000284,liver cancer,1
+hsa_circ_0000284,colorectal cancer,1
+hsa_circ_0000284,hepatocellular carcinoma,1
+hsa_circ_0000284,breast cancer,1
+hsa_circ_0000284,gastric cancer,1
+hsa_circ_0043256,non-small cell lung cancer,1
+hsa_circ_0043256,lung cancer,1
+hsa_circ_0016760,non-small cell lung cancer,1
+hsa_circ_0014130,non-small cell lung cancer,1
+hsa_circ_0007385,non-small cell lung cancer,1
+hsa_circ_0079530,non-small cell lung cancer,1
+hsa_circ_0006404,non-small cell lung cancer,1
+hsa_circ_0006404,breast cancer,1
+hsa_circ_0030569,tuberculosis,1
+hsa_circ_0001417,tuberculosis,1
+hsa_circ_0030045,tuberculosis,1
+hsa_circ_0043497,tuberculosis,1
+hsa_circ_0001204,tuberculosis,1
+hsa_circ_0000700,tuberculosis,1
+hsa_circ_0028899,tuberculosis,1
+hsa_circ_0028899,glioblastoma,1
+hsa_circ_0001946,glioblastoma,1
+hsa_circ_0001946,myocardial infarction,1
+hsa_circ_0001946,glioma,1
+hsa_circ_0001946,colorectal cancer,1
+hsa_circ_0001946,hepatocellular carcinoma,1
+hsa_circ_0001946,gastric cancer,1
+hsa_circ_0001566,glioblastoma,1
+hsa_circ_0000199,glioblastoma,1
+hsa_circ_0002968,glioblastoma,1
+hsa_circ_0003586,glioblastoma,1
+hsa_circ_0006411,glioblastoma,1
+hsa_circ_0006411,lung adenocarcinoma,1
+hsa_circ_0004872,glioblastoma,1
+hsa_circ_0008345,glioblastoma,1
+hsa_circ_0005603,glioblastoma,1
+hsa_circ_0006460,glioblastoma,1
+hsa_circ_0046701,glioblastoma,1
+hsa_circ_0046701,glioma,1
+hsa_circ_0012129,glioblastoma,1
+hsa_circ_0007534,glioblastoma,1
+hsa_circ_0007534,glioma,1
+hsa_circ_0007534,colorectal cancer,1
+hsa_circ_0007534,breast cancer,1
+hsa_circ_0004383,glioblastoma,1
+hsa_circ_0004383,hypoxia,1
+hsa_circ_0004383,glioma,1
+hsa_circ_0000831,glioblastoma,1
+hsa_circ_0000594,glioblastoma,1
+hsa_circ_0000594,glioma,1
+hsa_circ_0001445,glioblastoma,1
+hsa_circ_0001445,prostate cancer,1
+hsa_circ_0001445,glioblastoma multiforme,1
+hsa_circ_0001445,hepatocellular carcinoma,1
+hsa_circ_0004214,glioblastoma,1
+hsa_circ_0004214,cervical cancer,1
+hsa_circ_0004214,lung cancer,1
+hsa_circ_0004214,glioma,1
+hsa_circ_0004214,breast cancer,1
+hsa_circ_0000177,glioblastoma,1
+hsa_circ_0001070,glioblastoma,1
+hsa_circ_0067735,glioblastoma,1
+hsa_circ_0001512,glioblastoma,1
+hsa_circ_0000915,glioblastoma,1
+hsa_circ_0000638,glioblastoma,1
+hsa_circ_0000638,breast cancer,1
+hsa_circ_0024997,glioblastoma,1
+hsa_circ_0032876,glioblastoma,1
+hsa_circ_0001206,glioblastoma,1
+hsa_circ_0000437,glioblastoma,1
+hsa_circ_0000437,hypertension,1
+hsa_circ_0080121,glioblastoma,1
+hsa_circ_0075829,basal cell carcinoma,1
+hsa_circ_0064996,basal cell carcinoma,1
+hsa_circ_0064996,rheumatoid arthritis,1
+hsa_circ_0075828,basal cell carcinoma,1
+hsa_circ_0075825,basal cell carcinoma,1
+hsa_circ_0046449,basal cell carcinoma,1
+hsa_circ_0072387,basal cell carcinoma,1
+hsa_circ_0015449,basal cell carcinoma,1
+hsa_circ_0005085,basal cell carcinoma,1
+hsa_circ_0022392,basal cell carcinoma,1
+hsa_circ_0022383,basal cell carcinoma,1
+hsa_circ_0005912,basal cell carcinoma,1
+hsa_circ_0086419,basal cell carcinoma,1
+hsa_circ_0080189,basal cell carcinoma,1
+hsa_circ_0004777,basal cell carcinoma,1
+hsa_circ_0005795,basal cell carcinoma,1
+hsa_circ_0001370,basal cell carcinoma,1
+hsa_circ_0008732,basal cell carcinoma,1
+hsa_circ_0004277,leukemia,1
+hsa_circ_0004277,acute myeloid leukemia,1
+hsa_circ_0082081,coronary artery disease,1
+hsa_circ_0006323,coronary artery disease,1
+hsa_circ_0032970,coronary artery disease,1
+hsa_circ_0051172,coronary artery disease,1
+hsa_circ_0054537,coronary artery disease,1
+hsa_circ_0057576,coronary artery disease,1
+hsa_circ_0068942,coronary artery disease,1
+hsa_circ_0082824,coronary artery disease,1
+hsa_circ_0083357,coronary artery disease,1
+hsa_circ_0089378,coronary artery disease,1
+hsa_circ_0013255,liver fibrosis,1
+hsa_circ_0013255,liver cancer,1
+hsa_circ_0061893,liver fibrosis,1
+hsa_circ_0061893,liver cancer,1
+hsa_circ_0070963,liver fibrosis,1
+hsa_circ_0070963,liver cancer,1
+hsa_circ_0054345,liver fibrosis,1
+hsa_circ_0054345,liver cancer,1
+hsa_circ_0072765,liver fibrosis,1
+hsa_circ_0072765,liver cancer,1
+hsa_circ_0071410,liver fibrosis,1
+hsa_circ_0071410,liver cancer,1
+hsa_circ_0087432,cervical cancer,1
+hsa_circ_0089231,cervical cancer,1
+hsa_circ_0091822,cervical cancer,1
+hsa_circ_0034912,cervical cancer,1
+hsa_circ_0011021,cervical cancer,1
+hsa_circ_0018289,cervical cancer,1
+hsa_circ_0002768,bladder cancer,1
+hsa_circ_0002024,bladder cancer,1
+hsa_circ_0001577,bladder cancer,1
+hsa_circ_0001141,bladder cancer,1
+hsa_circ_0001141,esophageal squamous cell carcinoma,1
+hsa_circ_0001141,lung cancer,1
+hsa_circ_0001141,colorectal cancer,1
+hsa_circ_0001141,hepatocellular carcinoma,1
+hsa_circ_0002495,bladder cancer,1
+hsa_circ_0000172,bladder cancer,1
+hsa_circ_0082582,bladder cancer,1
+hsa_circ_0007158,bladder cancer,1
+hsa_circ_0061265,bladder cancer,1
+hsa_circ_0005273,bladder cancer,1
+hsa_circ_0005273,colorectal cancer,1
+hsa_circ_0041103,bladder cancer,1
+hsa_circ_0092024,bladder cancer,1
+hsa_circ_0091017,bladder cancer,1
+hsa_circ_0003221,bladder cancer,1
+hsa_circ_0072088,bladder cancer,1
+hsa_circ_0072088,colorectal cancer,1
+hsa_circ_0081342,papillary thyroid carcinoma,1
+hsa_circ_0003505,papillary thyroid carcinoma,1
+hsa_circ_0004846,papillary thyroid carcinoma,1
+hsa_circ_0000516,papillary thyroid carcinoma,1
+hsa_circ_0064557,papillary thyroid carcinoma,1
+hsa_circ_0078738,papillary thyroid carcinoma,1
+hsa_circ_0092315,papillary thyroid carcinoma,1
+hsa_circ_0091894,papillary thyroid carcinoma,1
+hsa_circ_0079891,papillary thyroid carcinoma,1
+hsa_circ_0021553,papillary thyroid carcinoma,1
+hsa_circ_0004771,papillary thyroid carcinoma,1
+hsa_circ_0004771,osteosarcoma,1
+hsa_circ_0004771,breast cancer,1
+hsa_circ_0008016,papillary thyroid carcinoma,1
+hsa_circ_0015278,papillary thyroid carcinoma,1
+hsa_circ_0002111,papillary thyroid carcinoma,1
+hsa_circ_0067103,papillary thyroid carcinoma,1
+hsa_circ_0004458,papillary thyroid carcinoma,1
+hsa_circ_0004458,gastric cancer,1
+hsa_circ_0024892,multiple sclerosis,1
+hsa_circ_0056731,multiple sclerosis,1
+hsa_circ_0001400,multiple sclerosis,1
+hsa_circ_0000520,multiple sclerosis,1
+hsa_circ_0000520,gastric cancer,1
+hsa_circ_0000519,multiple sclerosis,1
+hsa_circ_0000517,multiple sclerosis,1
+hsa_circ_0005402,multiple sclerosis,1
+hsa_circ_0035560,multiple sclerosis,1
+hsa_circ_0005239,triple negative breast cancer,1
+hsa_circ_0005239,breast cancer,1
+hsa_circ_0004674,triple negative breast cancer,1
+hsa_circ_0004666,triple negative breast cancer,1
+hsa_circ_0089763,triple negative breast cancer,1
+hsa_circ_0001633,triple negative breast cancer,1
+hsa_circ_0007255,triple negative breast cancer,1
+hsa_circ_0054633,diabetes mellitus,1
+hsa_circ_0054633,type 2 diabetes mellitus,1
+hsa_circ_0005019,diabetes mellitus,1
+hsa_circ_0023918,diabetes mellitus,1
+hsa_circ_0015115,diabetes mellitus,1
+hsa_circ_0015115,gastric cancer,1
+hsa_circ_0003251,diabetes mellitus,1
+hsa_circ_0012107,diabetic retinopathy,1
+hsa_circ_0003266,diabetic retinopathy,1
+hsa_circ_0080425,diabetic retinopathy,1
+hsa_circ_0020929,diabetic retinopathy,1
+hsa_circ_0063981,diabetic retinopathy,1
+hsa_circ_0016347,osteosarcoma,1
+hsa_circ_0001564,osteosarcoma,1
+hsa_circ_0009910,osteosarcoma,1
+hsa_circ_0002052,osteosarcoma,1
+hsa_circ_0092340,osteosarcoma,1
+hsa_circ_0056288,osteosarcoma,1
+hsa_circ_0005684,hypoxia,1
+hsa_circ_0005684,breast cancer,1
+hsa_circ_0001423,hypoxia,1
+hsa_circ_0003575,atherosclerosis,1
+hsa_circ_0000345,atherosclerosis,1
+hsa_circ_0004264,atherosclerosis,1
+hsa_circ_0003204,atherosclerosis,1
+hsa_circ_0003573,atherosclerosis,1
+hsa_circ_0008574,atherosclerosis,1
+hsa_circ_0091702,intervertebral disc degeneration,1
+hsa_circ_0080210,intervertebral disc degeneration,1
+hsa_circ_0041946,intervertebral disc degeneration,1
+hsa_circ_0008305,intervertebral disc degeneration,1
+hsa_circ_0036763,intervertebral disc degeneration,1
+hsa_circ_0040039,intervertebral disc degeneration,1
+hsa_circ_0029601,pre-eclampsia,1
+hsa_circ_0005218,pre-eclampsia,1
+hsa_circ_0005442,pre-eclampsia,1
+hsa_circ_0018508,type 2 diabetes mellitus,1
+hsa_circ_0086414,duchenne muscular dystrophy,1
+hsa_circ_0005105,osteoarthritis,1
+hsa_circ_0045714,osteoarthritis,1
+hsa_circ_0041019,osteoarthritis,1
+hsa_circ_0005043,osteoarthritis,1
+hsa_circ_0000026,osteoarthritis,1
+hsa_circ_0000026,gastric cancer,1
+hsa_circ_0008310,osteoarthritis,1
+hsa_circ_0065932,osteoarthritis,1
+hsa_circ_0000589,osteoarthritis,1
+hsa_circ_0005567,osteoarthritis,1
+hsa_circ_0006186,leukoaraiosis,1
+hsa_circ_0007380,leukoaraiosis,1
+hsa_circ_0052012,rheumatoid arthritis,1
+hsa_circ_0032683,rheumatoid arthritis,1
+hsa_circ_0083964,rheumatoid arthritis,1
+hsa_circ_0004712,rheumatoid arthritis,1
+hsa_circ_0001859,rheumatoid arthritis,1
+hsa_circ_0060144,rheumatoid arthritis,1
+hsa_circ_0004315,rheumatoid arthritis,1
+hsa_circ_0003524,rheumatoid arthritis,1
+hsa_circ_0088036,rheumatoid arthritis,1
+hsa_circ_0040809,hypertension,1
+hsa_circ_0008139,hypertension,1
+hsa_circ_0005870,hypertension,1
+hsa_circ_0067934,esophageal squamous cell carcinoma,1
+hsa_circ_0067934,lung adenocarcinoma,1
+hsa_circ_0067934,hepatocellular carcinoma,1
+hsa_circ_0000064,lung cancer,1
+hsa_circ_0059044,lung cancer,1
+hsa_circ_0054155,lung cancer,1
+hsa_circ_0013958,lung cancer,1
+hsa_circ_0013958,lung adenocarcinoma,1
+hsa_circ_0007915,liver cancer,1
+hsa_circ_0003028,liver cancer,1
+hsa_circ_0010090,liver cancer,1
+hsa_circ_0032832,esophageal cancer,1
+hsa_circ_0001336,esophageal cancer,1
+hsa_circ_0058058,esophageal cancer,1
+hsa_circ_0058058,acute myeloid leukemia,1
+hsa_circ_0004519,esophageal cancer,1
+hsa_circ_0014879,esophageal cancer,1
+hsa_circ_0002019,esophageal cancer,1
+hsa_circ_0000554,esophageal cancer,1
+hsa_circ_0089974,esophageal cancer,1
+hsa_circ_0000426,clear cell renal cell carcinoma,1
+hsa_circ_0000096,clear cell renal cell carcinoma,1
+hsa_circ_0000096,gastric cancer,1
+hsa_circ_0082333,colorectal cancer,1
+hsa_circ_0001451,colorectal cancer,1
+hsa_circ_0000069,colorectal cancer,1
+hsa_circ_0000567,colorectal cancer,1
+hsa_circ_0014717,colorectal cancer,1
+hsa_circ_0014717,gastric cancer,1
+hsa_circ_0007374,colorectal cancer,1
+hsa_circ_0006229,colorectal cancer,1
+hsa_circ_0002190,colorectal cancer,1
+hsa_circ_0000522,colorectal cancer,1
+hsa_circ_0071589,colorectal cancer,1
+hsa_circ_0003906,colorectal cancer,1
+hsa_circ_0000523,colorectal cancer,1
+hsa_circ_0002138,colorectal cancer,1
+hsa_circ_0024169,colorectal cancer,1
+hsa_circ_0000677,colorectal cancer,1
+hsa_circ_0087862,colorectal cancer,1
+hsa_circ_0084021,colorectal cancer,1
+hsa_circ_0008509,colorectal cancer,1
+hsa_circ_0006174,colorectal cancer,1
+hsa_circ_0048232,colorectal cancer,1
+hsa_circ_0074806,colorectal cancer,1
+hsa_circ_0005949,colorectal cancer,1
+hsa_circ_0008494,colorectal cancer,1
+hsa_circ_0022080,colorectal cancer,1
+hsa_circ_0084353,colorectal cancer,1
+hsa_circ_0074930,colorectal cancer,1
+hsa_circ_0000237,colorectal cancer,1
+hsa_circ_0007006,colorectal cancer,1
+hsa_circ_0000504,colorectal cancer,1
+hsa_circ_0007031,colorectal cancer,1
+hsa_circ_0007031,gastric cancer,1
+hsa_circ_0001724,colorectal cancer,1
+hsa_circ_0020397,colorectal cancer,1
+hsa_circ_0002702,colorectal cancer,1
+hsa_circ_0003098,colorectal cancer,1
+hsa_circ_0017446,acute myeloid leukemia,1
+hsa_circ_0004136,acute myeloid leukemia,1
+hsa_circ_0035381,acute myeloid leukemia,1
+hsa_circ_0075001,acute myeloid leukemia,1
+hsa_circ_0000254,acute myeloid leukemia,1
+hsa_circ_0000488,acute myeloid leukemia,1
+hsa_circ_0001947,acute myeloid leukemia,1
+hsa_circ_0008078,acute myeloid leukemia,1
+hsa_circ_0001187,acute myeloid leukemia,1
+hsa_circ_0049657,acute myeloid leukemia,1
+hsa_circ_0012673,lung adenocarcinoma,1
+hsa_circ_0005075,hepatocellular carcinoma,1
+hsa_circ_0004018,hepatocellular carcinoma,1
+hsa_circ_0001727,hepatocellular carcinoma,1
+hsa_circ_0003570,hepatocellular carcinoma,1
+hsa_circ_0005986,hepatocellular carcinoma,1
+hsa_circ_0085154,hepatocellular carcinoma,1
+hsa_circ_0067531,hepatocellular carcinoma,1
+hsa_circ_0068669,hepatocellular carcinoma,1
+hsa_circ_0008450,hepatocellular carcinoma,1
+hsa_circ_0002133,hepatocellular carcinoma,1
+hsa_circ_0000839,hepatocellular carcinoma,1
+hsa_circ_0021093,hepatocellular carcinoma,1
+hsa_circ_0007874,hepatocellular carcinoma,1
+hsa_circ_0000497,hepatocellular carcinoma,1
+hsa_circ_0075736,hepatocellular carcinoma,1
+hsa_circ_0000130,hepatocellular carcinoma,1
+hsa_circ_0008717,breast cancer,1
+hsa_circ_0004619,breast cancer,1
+hsa_circ_0006054,breast cancer,1
+hsa_circ_0001875,breast cancer,1
+hsa_circ_0001824,breast cancer,1
+hsa_circ_0006528,breast cancer,1
+hsa_circ_0011946,breast cancer,1
+hsa_circ_0085567,breast cancer,1
+hsa_circ_0044556,breast cancer,1
+hsa_circ_0017949,breast cancer,1
+hsa_circ_0016723,breast cancer,1
+hsa_circ_0007769,breast cancer,1
+hsa_circ_0007551,breast cancer,1
+hsa_circ_0006903,breast cancer,1
+hsa_circ_0006147,breast cancer,1
+hsa_circ_0005214,breast cancer,1
+hsa_circ_0005046,breast cancer,1
+hsa_circ_0005004,breast cancer,1
+hsa_circ_0003880,breast cancer,1
+hsa_circ_0003183,breast cancer,1
+hsa_circ_0002179,breast cancer,1
+hsa_circ_0002168,breast cancer,1
+hsa_circ_0002007,breast cancer,1
+hsa_circ_0001791,breast cancer,1
+hsa_circ_0001259,breast cancer,1
+hsa_circ_0001135,breast cancer,1
+hsa_circ_0000073,breast cancer,1
+hsa_circ_0017841,breast cancer,1
+hsa_circ_0016901,breast cancer,1
+hsa_circ_0015350,breast cancer,1
+hsa_circ_0014961,breast cancer,1
+hsa_circ_0012380,breast cancer,1
+hsa_circ_0010567,breast cancer,1
+hsa_circ_0001598,breast cancer,1
+hsa_circ_0001175,breast cancer,1
+hsa_circ_0036159,breast cancer,1
+hsa_circ_0015703,breast cancer,1
+hsa_circ_0010008,breast cancer,1
+hsa_circ_0001184,breast cancer,1
+hsa_circ_0003838,breast cancer,1
+hsa_circ_0092276,breast cancer,1
+hsa_circ_0086241,breast cancer,1
+hsa_circ_0085495,breast cancer,1
+hsa_circ_0001667,breast cancer,1
+hsa_circ_0002874,breast cancer,1
+hsa_circ_0068033,breast cancer,1
+hsa_circ_0001785,breast cancer,1
+hsa_circ_0001982,breast cancer,1
+hsa_circ_0000981,breast cancer,1
+hsa_circ_0000893,breast cancer,1
+hsa_circ_0001283,breast cancer,1
+hsa_circ_0018293,breast cancer,1
+hsa_circ_0000911,breast cancer,1
+hsa_circ_0001721,breast cancer,1
+hsa_circ_0001721,gastric cancer,1
+hsa_circ_0000098,breast cancer,1
+hsa_circ_0000732,breast cancer,1
+hsa_circ_0008945,breast cancer,1
+hsa_circ_0000140,gastric cancer,1
+hsa_circ_0000190,gastric cancer,1
+hsa_circ_0001895,gastric cancer,1
+hsa_circ_0069131,gastric cancer,1
+hsa_circ_0031979,gastric cancer,1
+hsa_circ_0006022,gastric cancer,1
+hsa_circ_0085553,gastric cancer,1
+hsa_circ_0003707,gastric cancer,1
+hsa_circ_0089548,gastric cancer,1
+hsa_circ_0091742,gastric cancer,1
+hsa_circ_0058246,gastric cancer,1
+hsa_circ_0006633,gastric cancer,1
+hsa_circ_0001561,gastric cancer,1
+hsa_circ_0000745,gastric cancer,1
+hsa_circ_0000181,gastric cancer,1
+hsa_circ_0003159,gastric cancer,1
+hsa_circ_0041732,gastric cancer,1
+hsa_circ_0023642,gastric cancer,1
+hsa_circ_0031027,gastric cancer,1
+hsa_circ_0068610,gastric cancer,1
+hsa_circ_0047905,gastric cancer,1
+hsa_circ_0008394,gastric cancer,1
+hsa_circ_0000154,gastric cancer,1
+hsa_circ_0004680,gastric cancer,1
+hsa_circ_0002089,gastric cancer,1
+hsa_circ_0001546,gastric cancer,1
+hsa_circ_0008832,gastric cancer,1
+hsa_circ_0007707,gastric cancer,1
+hsa_circ_0001897,gastric cancer,1
+hsa_circ_0007099,gastric cancer,1
+hsa_circ_0006470,gastric cancer,1
+hsa_circ_0050547,gastric cancer,1
+hsa_circ_0005556,gastric cancer,1
+hsa_circ_0084606,gastric cancer,1
+hsa_circ_0011107,gastric cancer,1
+hsa_circ_0006282,gastric cancer,1
+hsa_circ_0074362,gastric cancer,1
+hsa_circ_0063809,gastric cancer,1
+hsa_circ_0003789,gastric cancer,1
+hsa_circ_0035445,gastric cancer,1
+hsa_circ_0076305,gastric cancer,1
+hsa_circ_0035431,gastric cancer,1
+hsa_circ_0076304,gastric cancer,1
+hsa_circ_0005529,gastric cancer,1
+hsa_circ_0032821,gastric cancer,1
+hsa_circ_0061274,gastric cancer,1
+hsa_circ_0000144,gastric cancer,1
+hsa_circ_0092341,gastric cancer,1
+hsa_circ_0005927,gastric cancer,1
+hsa_circ_0006127,gastric cancer,1
+hsa_circ_0085616,gastric cancer,1
+hsa_circ_0061276,gastric cancer,1
+hsa_circ_0001017,gastric cancer,1
+hsa_circ_0058766,gastric cancer,1
+hsa_circ_0063561,gastric cancer,1
+hsa_circ_0054971,gastric cancer,1
+hsa_circ_0057104,gastric cancer,1
+hsa_circ_0060108,gastric cancer,1
+hsa_circ_0084720,gastric cancer,1
+hsa_circ_0081146,gastric cancer,1
+hsa_circ_0000627,gastric cancer,1
+hsa_circ_0092330,gastric cancer,1
+hsa_circ_0001539,gastric cancer,1
+hsa_circ_0000291,gastric cancer,1
+hsa_circ_0092283,gastric cancer,1
+hsa_circ_0008383,gastric cancer,1
+hsa_circ_0013048,gastric cancer,1
+hsa_circ_0003222,gastric cancer,1
+hsa_circ_0005442,glioblastoma,0
+hsa_circ_0085616,endometrial cancer,0
+hsa_circ_0032970,osteosarcoma,0
+hsa_circ_0004771,liver cancer,0
+hsa_circ_0002168,intervertebral disc degeneration,0
+hsa_circ_0001451,tuberculosis,0
+hsa_circ_0000839,primary biliary cholangitis,0
+hsa_circ_0001667,hepatocellular carcinoma,0
+hsa_circ_0001259,type 2 diabetes mellitus,0
+hsa_circ_0016901,heart disease,0
+hsa_circ_0011021,hirschsprung disease,0
+hsa_circ_0080189,hirschsprung disease,0
+hsa_circ_0001721,acute myeloid leukemia,0
+hsa_circ_0000518,cholangiocarcinoma,0
+hsa_circ_0005912,intracranial aneurysms,0
+hsa_circ_0006323,intervertebral disc degeneration,0
+hsa_circ_0061274,atherosclerosis,0
+hsa_circ_0091017,acne,0
+hsa_circ_0005442,cervical cancer,0
+hsa_circ_0030569,lupus nephritis,0
+hsa_circ_0017949,colon cancer,0
+hsa_circ_0012129,bladder cancer,0
+hsa_circ_0005931,pre-eclampsia,0
+hsa_circ_0000677,gastric cancer,0
+hsa_circ_0063981,acne,0
+hsa_circ_0011021,moyamoya disease,0
+hsa_circ_0032832,prostate cancer,0
+hsa_circ_0064557,coronary artery disease,0
+hsa_circ_0092024,glioblastoma multiforme,0
+hsa_circ_0030569,gestational diabetes mellitus,0
+hsa_circ_0001824,prostate cancer,0
+hsa_circ_0005540,hepatocellular carcinoma,0
+hsa_circ_0005105,multiple sclerosis,0
+hsa_circ_0006174,tuberculosis,0
+hsa_circ_0001187,glioma,0
+hsa_circ_0013509,pancreatic cancer,0
+hsa_circ_0001566,glioma,0
+hsa_circ_0072387,bladder cancer,0
+hsa_circ_0018508,esophageal cancer,0
+hsa_circ_0001895,endometrial cancer,0
+hsa_circ_0012129,pre-eclampsia,0
+hsa_circ_0004018,basal cell carcinoma,0
+hsa_circ_0008016,leukemia,0
+hsa_circ_0035560,leukemia,0
+hsa_circ_0017515,leukoaraiosis,0
+hsa_circ_0068033,primary biliary cholangitis,0
+hsa_circ_0064557,moyamoya disease,0
+hsa_circ_0003266,lung adenocarcinoma,0
+hsa_circ_0000745,glioblastoma multiforme,0
+hsa_circ_0092330,bladder cancer,0
+hsa_circ_0049657,hirschsprung's disease,0
+hsa_circ_0006186,liver fibrosis,0
+hsa_circ_0000594,acne,0
+hsa_circ_0000437,primary biliary cholangitis,0
+hsa_circ_0000567,non-small cell lung cancer,0
+hsa_circ_0005075,diabetic retinopathy,0
+hsa_circ_0083964,diabetes mellitus,0
+hsa_circ_0002019,esophageal squamous cell carcinoma,0
+hsa_circ_0001819,postmenopausal osteoporosis,0
+hsa_circ_0001598,intracranial aneurysms,0
+hsa_circ_0001073,hirschsprung's disease,0
+hsa_circ_0001819,triple negative breast cancer,0
+hsa_circ_0006460,leukemia,0
+hsa_circ_0080210,colorectal cancer,0
+hsa_circ_0003183,primary biliary cholangitis,0
+hsa_circ_0032891,breast cancer,0
+hsa_circ_0017841,major depressive disorder,0
+hsa_circ_0002133,acute lymphoblastic leukemia,0
+hsa_circ_0005046,lung adenocarcinoma,0
+hsa_circ_0003183,hirschsprung's disease,0
+hsa_circ_0021093,major depressive disorder,0
+hsa_circ_0008016,glioblastoma,0
+hsa_circ_0058766,cervical cancer,0
+hsa_circ_0003570,coronary artery disease,0
+hsa_circ_0008574,liver fibrosis,0
+hsa_circ_0007158,glioblastoma,0
+hsa_circ_0061274,glioma,0
+hsa_circ_0005075,tuberculosis,0
+hsa_circ_0061893,osteosarcoma,0
+hsa_circ_0004018,atherosclerosis,0
+hsa_circ_0092283,gestational diabetes mellitus,0
+hsa_circ_0000426,papillary thyroid carcinoma,0
+hsa_circ_0038383,rheumatoid arthritis,0
+hsa_circ_0002179,hepatoblastoma,0
+hsa_circ_0008394,lung adenocarcinoma,0
+hsa_circ_0001982,acne,0
+hsa_circ_0040705,lung cancer,0
+hsa_circ_0000172,hepatoblastoma,0
+hsa_circ_0008615,intervertebral disc degeneration,0
+hsa_circ_0085154,duchenne muscular dystrophy,0
+hsa_circ_0005927,tuberculosis,0
+hsa_circ_0001724,atherosclerosis,0
+hsa_circ_0000488,hirschsprung's disease,0
+hsa_circ_0061893,non-small cell lung cancer,0
+hsa_circ_0004872,gestational diabetes mellitus,0
+hsa_circ_0007255,endometrial cancer,0
+hsa_circ_0075828,leukemia,0
+hsa_circ_0004872,gastric cancer,0
+hsa_circ_0001539,hypoxia,0
+hsa_circ_0002362,lupus nephritis,0
+hsa_circ_0004383,hepatocellular carcinoma,0
+hsa_circ_0000497,colon cancer,0
+hsa_circ_0000745,duchenne muscular dystrophy,0
+hsa_circ_0068669,essential hypertension,0
+hsa_circ_0021553,gestational diabetes mellitus,0
+hsa_circ_0000522,cholangiocarcinoma,0
+hsa_circ_0005046,gastric cancer,0
+hsa_circ_0005912,esophageal cancer,0
+hsa_circ_0001512,osteoarthritis,0
+hsa_circ_0008345,lung adenocarcinoma,0
+hsa_circ_0052012,glioma,0
+hsa_circ_0004018,cholangiocarcinoma,0
+hsa_circ_0001204,liver fibrosis,0
+hsa_circ_0001859,leukoaraiosis,0
+hsa_circ_0032876,osteoarthritis,0
+hsa_circ_0001866,hypoxia,0
+hsa_circ_0038374,type 2 diabetes mellitus,0
+hsa_circ_0075001,atherosclerosis,0
+hsa_circ_0001824,duchenne muscular dystrophy,0
+hsa_circ_0067103,heart disease,0
+hsa_circ_0005540,acne,0
+hsa_circ_0087862,triple negative breast cancer,0
+hsa_circ_0000074,major depressive disorder,0
+hsa_circ_0005402,acne,0
+hsa_circ_0080210,liver fibrosis,0
+hsa_circ_0049657,breast cancer,0
+hsa_circ_0000237,multiple sclerosis,0
+hsa_circ_0003266,acute myeloid leukemia,0
+hsa_circ_0008450,osteosarcoma,0
+hsa_circ_0023110,colorectal cancer,0
+hsa_circ_0003570,breast cancer,0
+hsa_circ_0063981,bladder cancer,0
+hsa_circ_0001073,gestational diabetes mellitus,0
+hsa_circ_0000567,leukoaraiosis,0
+hsa_circ_0006766,leukoaraiosis,0
+hsa_circ_0067745,osteoarthritis,0
+hsa_circ_0002968,triple negative breast cancer,0
+hsa_circ_0038383,hirschsprung's disease,0
+hsa_circ_0006054,triple negative breast cancer,0
+hsa_circ_0004315,postmenopausal osteoporosis,0
+hsa_circ_0000523,leukemia,0
+hsa_circ_0003922,multiple system atrophy,0
+hsa_circ_0006323,type 2 diabetes mellitus,0
+hsa_circ_0000516,leukoaraiosis,0
+hsa_circ_0002078,osteoarthritis,0
+hsa_circ_0024169,major depressive disorder,0
+hsa_circ_0000181,non-small cell lung cancer,0
+hsa_circ_0015449,acne,0
+hsa_circ_0001283,hepatocellular carcinoma,0
+hsa_circ_0017841,pulmonary tuberculosis,0
+hsa_circ_0082569,hepatocellular carcinoma,0
+hsa_circ_0082081,gastric cancer,0
+hsa_circ_0020159,heart disease,0
+hsa_circ_0008450,type 2 diabetes mellitus,0
+hsa_circ_0092340,esophageal cancer,0
+hsa_circ_0003159,acne,0
+hsa_circ_0049657,diabetic retinopathy,0
+hsa_circ_0000199,hypertension,0
+hsa_circ_0005046,postmenopausal osteoporosis,0
+hsa_circ_0032821,multiple system atrophy,0
+hsa_circ_0015756,cholangiocarcinoma,0
+hsa_circ_0006633,diabetes mellitus,0
+hsa_circ_0047905,postmenopausal osteoporosis,0
+hsa_circ_0089310,glioblastoma,0
+hsa_circ_0001824,lung adenocarcinoma,0
+hsa_circ_0014717,basal cell carcinoma,0
+hsa_circ_0087862,basal cell carcinoma,0
+hsa_circ_0064996,multiple sclerosis,0
+hsa_circ_0001512,cholangiocarcinoma,0
+hsa_circ_0021093,tuberculosis,0
+hsa_circ_0040081,liver fibrosis,0
+hsa_circ_0081146,multiple system atrophy,0
+hsa_circ_0008394,colon cancer,0
+hsa_circ_0023918,heart disease,0
+hsa_circ_0001982,papillary thyroid carcinoma,0
+hsa_circ_0004846,acne,0
+hsa_circ_0002138,osteosarcoma,0
+hsa_circ_0000519,non-small cell lung cancer,0
+hsa_circ_0014717,primary biliary cholangitis,0
+hsa_circ_0015278,liver cancer,0
+hsa_circ_0075828,pancreatic cancer,0
+hsa_circ_0007158,leukoaraiosis,0
+hsa_circ_0003028,colorectal cancer,0
+hsa_circ_0005870,acne,0
+hsa_circ_0008717,bladder cancer,0
+hsa_circ_0063561,primary biliary cholangitis,0
+hsa_circ_0045714,coronary artery disease,0
+hsa_circ_0000199,clear cell renal cell carcinoma,0
+hsa_circ_0007374,liver fibrosis,0
+hsa_circ_0007707,diabetes mellitus,0
+hsa_circ_0089231,hirschsprung disease,0
+hsa_circ_0012129,liver fibrosis,0
+hsa_circ_0004458,rheumatoid arthritis,0
+hsa_circ_0001561,osteosarcoma,0
+hsa_circ_0005085,bladder cancer,0
+hsa_circ_0002908,triple negative breast cancer,0
+hsa_circ_0018168,lupus nephritis,0
+hsa_circ_0004383,esophageal cancer,0
+hsa_circ_0000237,diabetic retinopathy,0
+hsa_circ_0054537,intracranial aneurysms,0
+hsa_circ_0072765,hypertension,0
+hsa_circ_0021001,type 2 diabetes mellitus,0
+hsa_circ_0000175,osteoarthritis,0
+hsa_circ_0003880,basal cell carcinoma,0
+hsa_circ_0000181,triple negative breast cancer,0
+hsa_circ_0015449,leukemia,0
+hsa_circ_0054345,gastric cancer,0
+hsa_circ_0087862,liver cancer,0
+hsa_circ_0000426,cervical cancer,0
+hsa_circ_0081342,moyamoya disease,0
+hsa_circ_0000915,non-small cell lung cancer,0
+hsa_circ_0041731,acute lymphoblastic leukemia,0
+hsa_circ_0041103,moyamoya disease,0
+hsa_circ_0001633,acute lymphoblastic leukemia,0
+hsa_circ_0002179,cardiovascular disease,0
+hsa_circ_0023918,duchenne muscular dystrophy,0
+hsa_circ_0016760,hirschsprung's disease,0
+hsa_circ_0000839,primary biliary cholangitis,0
+hsa_circ_0000567,hirschsprung's disease,0
+hsa_circ_0079530,hypertension,0
+hsa_circ_0057104,glioblastoma multiforme,0
+hsa_circ_0003204,leukoaraiosis,0
+hsa_circ_0018293,liver fibrosis,0
+hsa_circ_0082081,hypertension,0
+hsa_circ_0002024,pancreatic cancer,0
+hsa_circ_0056288,diabetic retinopathy,0
+hsa_circ_0079530,pre-eclampsia,0
+hsa_circ_0059044,glioblastoma,0
+hsa_circ_0001539,lupus nephritis,0
+hsa_circ_0001451,primary biliary cholangitis,0
+hsa_circ_0001947,intervertebral disc degeneration,0
+hsa_circ_0075829,tuberculosis,0
+hsa_circ_0007385,basal cell carcinoma,0
+hsa_circ_0022383,heart disease,0
+hsa_circ_0001577,hypoxia,0
+hsa_circ_0000175,cervical cancer,0
+hsa_circ_0008832,gestational diabetes mellitus,0
+hsa_circ_0001577,primary biliary cholangitis,0
+hsa_circ_0001135,triple negative breast cancer,0
+hsa_circ_0008139,liver cancer,0
+hsa_circ_0083357,liver fibrosis,0
+hsa_circ_0004674,hypoxia,0
+hsa_circ_0001187,colon cancer,0
+hsa_circ_0050547,pre-eclampsia,0
+hsa_circ_0000504,essential hypertension,0
+hsa_circ_0061893,tuberculosis,0
+hsa_circ_0092340,cervical cancer,0
+hsa_circ_0085553,multiple system atrophy,0
+hsa_circ_0007006,endometrial cancer,0
+hsa_circ_0005046,hepatocellular carcinoma,0
+hsa_circ_0004666,heart disease,0
+hsa_circ_0072088,leukoaraiosis,0
+hsa_circ_0010090,intracranial aneurysms,0
+hsa_circ_0082824,hepatocellular carcinoma,0
+hsa_circ_0001875,hypoxia,0
+hsa_circ_0040809,acute lymphoblastic leukemia,0
+hsa_circ_0013958,osteoarthritis,0
+hsa_circ_0008832,esophageal cancer,0
+hsa_circ_0022392,leukoaraiosis,0
+hsa_circ_0000638,leukoaraiosis,0
+hsa_circ_0000911,essential hypertension,0
+hsa_circ_0045714,glioma,0
+hsa_circ_0003159,systemic lupus erythematosus,0
+hsa_circ_0067745,leukoaraiosis,0
+hsa_circ_0000567,rheumatoid arthritis,0
+hsa_circ_0000745,hypoxia,0
+hsa_circ_0005239,colorectal cancer,0
+hsa_circ_0008832,lupus nephritis,0
+hsa_circ_0005795,acute myeloid leukemia,0
+hsa_circ_0091017,prostate cancer,0
+hsa_circ_0005941,essential hypertension,0
+hsa_circ_0004519,pancreatic cancer,0
+hsa_circ_0000414,esophageal cancer,0
+hsa_circ_0001821,multiple system atrophy,0
+hsa_circ_0005927,diabetic retinopathy,0
+hsa_circ_0005239,hirschsprung's disease,0
+hsa_circ_0068610,myocardial infarction,0
+hsa_circ_0001073,intracranial aneurysms,0
+hsa_circ_0060144,gestational diabetes mellitus,0
+hsa_circ_0001546,osteosarcoma,0
+hsa_circ_0001791,digestive system neoplasm,0
+hsa_circ_0001824,colorectal cancer,0
+hsa_circ_0011021,hypertension,0
+hsa_circ_0004383,basal cell carcinoma,0
+hsa_circ_0005019,type 2 diabetes mellitus,0
+hsa_circ_0036763,leukemia,0
+hsa_circ_0091822,breast cancer,0
+hsa_circ_0001336,colon cancer,0
+hsa_circ_0010567,glioblastoma multiforme,0
+hsa_circ_0006127,colorectal cancer,0
+hsa_circ_0000254,intervertebral disc degeneration,0
+hsa_circ_0003266,postmenopausal osteoporosis,0
+hsa_circ_0000681,colon cancer,0
+hsa_circ_0004674,major depressive disorder,0
+hsa_circ_0040081,colon cancer,0
+hsa_circ_0010090,osteoarthritis,0
+hsa_circ_0079530,breast cancer,0
+hsa_circ_0078710,major depressive disorder,0
+hsa_circ_0008615,non-small cell lung cancer,0
+hsa_circ_0005004,gastric cancer,0
+hsa_circ_0000098,hepatoblastoma,0
+hsa_circ_0003028,esophageal squamous cell carcinoma,0
+hsa_circ_0007158,glioblastoma multiforme,0
+hsa_circ_0076304,clear cell renal cell carcinoma,0
+hsa_circ_0010008,myocardial infarction,0
+hsa_circ_0001721,glioblastoma,0
+hsa_circ_0061893,cholangiocarcinoma,0
+hsa_circ_0092330,esophageal cancer,0
+hsa_circ_0000069,pre-eclampsia,0
+hsa_circ_0064996,systemic lupus erythematosus,0
+hsa_circ_0016760,major depressive disorder,0
+hsa_circ_0037911,leukemia,0
+hsa_circ_0075829,multiple system atrophy,0
+hsa_circ_0091894,heart disease,0
+hsa_circ_0005218,cardiovascular disease,0
+hsa_circ_0047905,glioblastoma,0
+hsa_circ_0001017,gestational diabetes mellitus,0
+hsa_circ_0008016,bladder cancer,0
+hsa_circ_0063561,lupus nephritis,0
+hsa_circ_0028882,lung adenocarcinoma,0
+hsa_circ_0001859,tuberculosis,0
+hsa_circ_0002111,myocardial infarction,0
+hsa_circ_0001633,endometrial cancer,0
+hsa_circ_0003880,basal cell carcinoma,0
+hsa_circ_0091822,multiple system atrophy,0
+hsa_circ_0051172,digestive system neoplasm,0
+hsa_circ_0003524,hirschsprung's disease,0
+hsa_circ_0008574,diabetes mellitus,0
+hsa_circ_0087862,glioblastoma multiforme,0
+hsa_circ_0006404,lung cancer,0
+hsa_circ_0008345,cervical cancer,0
+hsa_circ_0080425,rheumatoid arthritis,0
+hsa_circ_0072765,type 2 diabetes mellitus,0
+hsa_circ_0001721,leukoaraiosis,0
+hsa_circ_0037911,postmenopausal osteoporosis,0
+hsa_circ_0040081,liver fibrosis,0
+hsa_circ_0018293,clear cell renal cell carcinoma,0
+hsa_circ_0015756,endometrial cancer,0
+hsa_circ_0000181,liver cancer,0
+hsa_circ_0061276,diabetes mellitus,0
+hsa_circ_0000516,multiple system atrophy,0
+hsa_circ_0005912,tuberculosis,0
+hsa_circ_0006022,prostate cancer,0
+hsa_circ_0003789,multiple sclerosis,0
+hsa_circ_0006801,cholangiocarcinoma,0
+hsa_circ_0006022,liver cancer,0
+hsa_circ_0005603,glioma,0
+hsa_circ_0004680,digestive system neoplasm,0
+hsa_circ_0005442,type 2 diabetes mellitus,0
+hsa_circ_0088036,cervical cancer,0
+hsa_circ_0058246,acute myeloid leukemia,0
+hsa_circ_0051172,duchenne muscular dystrophy,0
+hsa_circ_0040039,triple negative breast cancer,0
+hsa_circ_0006174,papillary thyroid carcinoma,0
+hsa_circ_0068610,cholangiocarcinoma,0
+hsa_circ_0075825,hepatocellular carcinoma,0
+hsa_circ_0091742,diabetic retinopathy,0
+hsa_circ_0049657,lung adenocarcinoma,0
+hsa_circ_0002168,osteoarthritis,0
+hsa_circ_0008345,heart failure,0
+hsa_circ_0092283,esophageal cancer,0
+hsa_circ_0000732,glioblastoma,0
+hsa_circ_0000177,hepatocellular carcinoma,0
+hsa_circ_0058766,primary biliary cholangitis,0
+hsa_circ_0002113,glioma,0
+hsa_circ_0032821,basal cell carcinoma,0
+hsa_circ_0085616,liver fibrosis,0
+hsa_circ_0074806,leukoaraiosis,0
+hsa_circ_0005941,atherosclerosis,0
+hsa_circ_0040705,triple negative breast cancer,0
+hsa_circ_0008139,glioblastoma,0
+hsa_circ_0082824,cardiovascular disease,0
+hsa_circ_0069131,lung adenocarcinoma,0
+hsa_circ_0086414,osteosarcoma,0
+hsa_circ_0071410,pre-eclampsia,0
+hsa_circ_0046599,hirschsprung disease,0
+hsa_circ_0001598,duchenne muscular dystrophy,0
+hsa_circ_0004315,breast cancer,0
+hsa_circ_0003570,lupus nephritis,0
+hsa_circ_0002052,osteoarthritis,0
+hsa_circ_0008394,osteosarcoma,0
+hsa_circ_0046449,prostate cancer,0
+hsa_circ_0005075,acute lymphoblastic leukemia,0
+hsa_circ_0041732,bladder cancer,0
+hsa_circ_0001070,basal cell carcinoma,0
+hsa_circ_0008394,liver fibrosis,0
+hsa_circ_0059044,multiple sclerosis,0
+hsa_circ_0006174,essential hypertension,0
+hsa_circ_0058246,basal cell carcinoma,0
+hsa_circ_0006988,cardiovascular disease,0
+hsa_circ_0001859,acne,0
+hsa_circ_0000177,bladder cancer,0
+hsa_circ_0000732,hepatoblastoma,0
+hsa_circ_0023114,endometrial cancer,0
+hsa_circ_0089548,pancreatic cancer,0
+hsa_circ_0008832,atherosclerosis,0
+hsa_circ_0013255,acne,0
+hsa_circ_0004214,pulmonary tuberculosis,0
+hsa_circ_0023110,triple negative breast cancer,0
+hsa_circ_0005085,type 2 diabetes mellitus,0
+hsa_circ_0003575,clear cell renal cell carcinoma,0
+hsa_circ_0028882,multiple sclerosis,0
+hsa_circ_0007158,papillary thyroid carcinoma,0
+hsa_circ_0003204,glioblastoma multiforme,0
+hsa_circ_0003221,non-small cell lung cancer,0
+hsa_circ_0038374,cervical cancer,0
+hsa_circ_0089548,acne,0
+hsa_circ_0006282,pancreatic cancer,0
+hsa_circ_0017841,clear cell renal cell carcinoma,0
+hsa_circ_0088036,atherosclerosis,0
+hsa_circ_0005684,heart failure,0
+hsa_circ_0001400,colon cancer,0
+hsa_circ_0084927,liver cancer,0
+hsa_circ_0003586,heart disease,0
+hsa_circ_0008305,gastric cancer,0
+hsa_circ_0000504,acute lymphoblastic leukemia,0
+hsa_circ_0004712,heart disease,0
+hsa_circ_0005239,hepatocellular carcinoma,0
+hsa_circ_0004666,heart disease,0
+hsa_circ_0001724,hepatocellular carcinoma,0
+hsa_circ_0074806,glioblastoma multiforme,0
+hsa_circ_0001206,leukemia,0
+hsa_circ_0003880,leukoaraiosis,0
+hsa_circ_0083357,leukoaraiosis,0
+hsa_circ_0004666,myocardial infarction,0
+hsa_circ_0062163,acne,0
+hsa_circ_0006127,hypertension,0
+hsa_circ_0000064,essential hypertension,0
+hsa_circ_0005603,cardiovascular disease,0
+hsa_circ_0000345,lung adenocarcinoma,0
+hsa_circ_0006801,bladder cancer,0
+hsa_circ_0009910,rheumatoid arthritis,0
+hsa_circ_0008310,esophageal squamous cell carcinoma,0
+hsa_circ_0004712,basal cell carcinoma,0
+hsa_circ_0001141,glioblastoma,0
+hsa_circ_0035381,gestational diabetes mellitus,0
+hsa_circ_0052372,coronary artery disease,0
+hsa_circ_0007031,postmenopausal osteoporosis,0
+hsa_circ_0060144,tuberculosis,0
+hsa_circ_0001135,osteosarcoma,0
+hsa_circ_0012107,papillary thyroid carcinoma,0
+hsa_circ_0072088,leukoaraiosis,0
+hsa_circ_0000098,lung adenocarcinoma,0
+hsa_circ_0005538,systemic lupus erythematosus,0
+hsa_circ_0015115,duchenne muscular dystrophy,0
+hsa_circ_0015703,essential hypertension,0
+hsa_circ_0001821,diabetes mellitus,0
+hsa_circ_0003570,leukemia,0
+hsa_circ_0075829,type 2 diabetes mellitus,0
+hsa_circ_0000175,leukoaraiosis,0
+hsa_circ_0007385,heart disease,0
+hsa_circ_0008016,glioma,0
+hsa_circ_0002089,multiple system atrophy,0
+hsa_circ_0032821,papillary thyroid carcinoma,0
+hsa_circ_0002908,multiple sclerosis,0
+hsa_circ_0006054,hepatocellular carcinoma,0
+hsa_circ_0000745,hepatocellular carcinoma,0
+hsa_circ_0008797,leukemia,0
+hsa_circ_0017841,pre-eclampsia,0
+hsa_circ_0008615,moyamoya disease,0
+hsa_circ_0054537,multiple sclerosis,0
+hsa_circ_0091742,digestive system neoplasm,0
+hsa_circ_0005043,essential hypertension,0
+hsa_circ_0072359,rheumatoid arthritis,0
+hsa_circ_0001946,diabetic retinopathy,0
+hsa_circ_0065932,lung cancer,0
+hsa_circ_0000519,colon cancer,0
+hsa_circ_0001283,primary biliary cholangitis,0
+hsa_circ_0015703,esophageal cancer,0
+hsa_circ_0001135,basal cell carcinoma,0
+hsa_circ_0075001,intervertebral disc degeneration,0
+hsa_circ_0058246,hypoxia,0
+hsa_circ_0005684,triple negative breast cancer,0
+hsa_circ_0001445,acute lymphoblastic leukemia,0
+hsa_circ_0000074,pancreatic cancer,0
+hsa_circ_0089378,pancreatic cancer,0
+hsa_circ_0002113,glioblastoma multiforme,0
+hsa_circ_0000520,postmenopausal osteoporosis,0
+hsa_circ_0081342,diabetic retinopathy,0
+hsa_circ_0064557,acne,0
+hsa_circ_0075001,non-small cell lung cancer,0
+hsa_circ_0008305,glioblastoma,0
+hsa_circ_0067745,glioblastoma,0
+hsa_circ_0048232,intracranial aneurysms,0
+hsa_circ_0008016,hypoxia,0
+hsa_circ_0004136,liver cancer,0
+hsa_circ_0008078,endometrial cancer,0
+hsa_circ_0002362,clear cell renal cell carcinoma,0
+hsa_circ_0004619,duchenne muscular dystrophy,0
+hsa_circ_0032821,heart disease,0
+hsa_circ_0008717,acute lymphoblastic leukemia,0
+hsa_circ_0001070,heart failure,0
+hsa_circ_0091017,glioma,0
+hsa_circ_0001451,basal cell carcinoma,0
+hsa_circ_0004458,tuberculosis,0
+hsa_circ_0088036,osteosarcoma,0
+hsa_circ_0005567,leukemia,0
+hsa_circ_0089974,acne,0
+hsa_circ_0001206,intervertebral disc degeneration,0
+hsa_circ_0000064,prostate cancer,0
+hsa_circ_0000190,type 2 diabetes mellitus,0
+hsa_circ_0014130,bladder cancer,0
+hsa_circ_0089231,colorectal cancer,0
+hsa_circ_0003028,postmenopausal osteoporosis,0
+hsa_circ_0041019,cardiovascular disease,0
+hsa_circ_0082333,intracranial aneurysms,0
+hsa_circ_0028882,breast cancer,0
+hsa_circ_0034912,esophageal cancer,0
+hsa_circ_0001141,rheumatoid arthritis,0
+hsa_circ_0038374,osteoarthritis,0
+hsa_circ_0003789,non-small cell lung cancer,0
+hsa_circ_0016347,osteoarthritis,0
+hsa_circ_0092276,intracranial aneurysms,0
+hsa_circ_0008345,duchenne muscular dystrophy,0
+hsa_circ_0003922,basal cell carcinoma,0
+hsa_circ_0072387,colon cancer,0
+hsa_circ_0006186,major depressive disorder,0
+hsa_circ_0007255,liver fibrosis,0
+hsa_circ_0008394,hirschsprung's disease,0
+hsa_circ_0035560,basal cell carcinoma,0
+hsa_circ_0003789,lupus nephritis,0
+hsa_circ_0003028,coronary artery disease,0
+hsa_circ_0083357,acute lymphoblastic leukemia,0
+hsa_circ_0005870,osteosarcoma,0
+hsa_circ_0081342,diabetes mellitus,0
+hsa_circ_0091742,endometrial cancer,0
+hsa_circ_0009910,glioblastoma multiforme,0
+hsa_circ_0006404,coronary artery disease,0
+hsa_circ_0092374,colon cancer,0
+hsa_circ_0007158,coronary artery disease,0
+hsa_circ_0002113,major depressive disorder,0
+hsa_circ_0023110,tuberculosis,0
+hsa_circ_0000700,rheumatoid arthritis,0
+hsa_circ_0001649,heart failure,0
+hsa_circ_0018508,cardiovascular disease,0
+hsa_circ_0080210,acne,0
+hsa_circ_0032821,heart failure,0
+hsa_circ_0001184,tuberculosis,0
+hsa_circ_0000291,systemic lupus erythematosus,0
+hsa_circ_0092374,colorectal cancer,0
+hsa_circ_0028882,intervertebral disc degeneration,0
+hsa_circ_0030569,rheumatoid arthritis,0
+hsa_circ_0009910,rheumatoid arthritis,0
+hsa_circ_0005218,endometrial cancer,0
+hsa_circ_0002113,acute myeloid leukemia,0
+hsa_circ_0032891,esophageal cancer,0
+hsa_circ_0023404,multiple sclerosis,0
+hsa_circ_0002577,heart failure,0
+hsa_circ_0011107,heart disease,0
+hsa_circ_0003028,liver fibrosis,0
+hsa_circ_0001821,triple negative breast cancer,0
+hsa_circ_0089378,osteosarcoma,0
+hsa_circ_0002111,acute myeloid leukemia,0
+hsa_circ_0002702,leukoaraiosis,0
+hsa_circ_0035560,papillary thyroid carcinoma,0
+hsa_circ_0017515,lung adenocarcinoma,0
+hsa_circ_0068033,cervical cancer,0
+hsa_circ_0011946,heart failure,0
+hsa_circ_0067103,bladder cancer,0
+hsa_circ_0017841,moyamoya disease,0
+hsa_circ_0018293,hirschsprung disease,0
+hsa_circ_0002113,esophageal squamous cell carcinoma,0
+hsa_circ_0036763,basal cell carcinoma,0
+hsa_circ_0052372,intracranial aneurysms,0
+hsa_circ_0001423,primary biliary cholangitis,0
+hsa_circ_0003183,liver fibrosis,0
+hsa_circ_0089310,essential hypertension,0
+hsa_circ_0000199,triple negative breast cancer,0
+hsa_circ_0000177,hypoxia,0
+hsa_circ_0003707,leukemia,0
+hsa_circ_0000615,leukoaraiosis,0
+hsa_circ_0080210,moyamoya disease,0
+hsa_circ_0013048,triple negative breast cancer,0
